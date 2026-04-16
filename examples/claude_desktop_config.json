@@ -1,0 +1,9 @@
+{
+  "_comment_minimal": "Minimalna konfiguracja — bez klucza API, pełna funkcjonalność publicznych endpointów",
+  "mcpServers": {
+    "atlas-przetargow": {
+      "command": "npx",
+      "args": ["-y", "@atlasprzetargow/mcp"]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+src/
+scripts/
+examples/
+tsconfig.json
+.gitignore
+*.log
+.env*
+node_modules/

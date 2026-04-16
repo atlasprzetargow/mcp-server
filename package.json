@@ -1,0 +1,59 @@
+{
+  "name": "@atlasprzetargow/mcp",
+  "version": "0.1.0",
+  "description": "MCP server for Atlas Przetargów — search and analyze Polish public tenders (BZP + TED) from any AI client (Claude Desktop, Cursor, Continue).",
+  "type": "module",
+  "bin": {
+    "atlas-przetargow-mcp": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "prebuild": "node scripts/export-glossary.mjs",
+    "build": "tsc && node scripts/copy-generated.mjs",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js",
+    "smoke": "node dist/smoke-test.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "anthropic",
+    "public-procurement",
+    "tenders",
+    "bzp",
+    "ted",
+    "polska",
+    "poland",
+    "zamowienia-publiczne",
+    "atlas-przetargow"
+  ],
+  "author": "Atlas Przetargów <contact@atlasprzetargow.pl>",
+  "license": "MIT",
+  "homepage": "https://atlasprzetargow.pl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atlasprzetargow/mcp-server"
+  },
+  "bugs": {
+    "url": "https://github.com/atlasprzetargow/mcp-server/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}

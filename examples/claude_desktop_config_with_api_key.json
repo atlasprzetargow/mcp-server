@@ -1,0 +1,12 @@
+{
+  "_comment_with_api_key": "Konfiguracja z kluczem API (odblokowuje AI summaries przetargów przez endpointy /api/llm/*)",
+  "mcpServers": {
+    "atlas-przetargow": {
+      "command": "npx",
+      "args": ["-y", "@atlasprzetargow/mcp"],
+      "env": {
+        "ATLAS_API_KEY": "YOUR_ATLAS_API_KEY_HERE"
+      }
+    }
+  }
+}

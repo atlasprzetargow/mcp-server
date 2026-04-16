@@ -1,0 +1,639 @@
+[
+  {
+    "slug": "jedz",
+    "term": "JEDZ",
+    "shortDef": "Jednolity Europejski Dokument Zamówienia – oświadczenie wstępne wykonawcy zastępujące zaświadczenia urzędowe w zamówieniach unijnych.",
+    "definition": "JEDZ (Jednolity Europejski Dokument Zamówienia, ang. ESPD – European Single Procurement Document) to standardowy formularz wypełniany przez wykonawcę na etapie ubiegania się o zamówienie publiczne. Zastępuje zaświadczenia i dokumenty wydawane przez organy publiczne (m.in. z KRS, ZUS, US), które wykonawca musi przedłożyć dopiero po wyborze najkorzystniejszej oferty.",
+    "extended": "JEDZ składa się z pięciu części: informacje o postępowaniu i zamawiającym, informacje o wykonawcy, podstawy wykluczenia, kryteria kwalifikacji, ograniczenie liczby wykonawców. W Polsce JEDZ wypełnia się elektronicznie za pomocą serwisu ESPD (espd.uzp.gov.pl) lub bezpośrednio w platformie e-Zamówienia. Obowiązuje przy zamówieniach powyżej progów UE. Wypełnienie JEDZ jest wymagane od głównego wykonawcy, a w przypadku konsorcjum – od każdego z uczestników. Podwykonawcy składają JEDZ tylko wtedy, gdy zamawiający tego wymaga. Dokument ma postać oświadczenia własnego, więc nie wymaga pieczęci ani podpisów notarialnych – wystarczy kwalifikowany podpis elektroniczny."
+  },
+  {
+    "slug": "swz",
+    "term": "SWZ",
+    "shortDef": "Specyfikacja Warunków Zamówienia – główny dokument postępowania opisujący przedmiot, warunki, kryteria oceny i wymagania formalne.",
+    "definition": "SWZ (Specyfikacja Warunków Zamówienia) to podstawowy dokument każdego postępowania o zamówienie publiczne, zastąpił SIWZ (Specyfikację Istotnych Warunków Zamówienia) po nowelizacji PZP z 2021 roku. Zawiera kompleksowy opis przedmiotu zamówienia, warunki udziału, kryteria oceny ofert, wzór umowy oraz wymagania formalne dotyczące złożenia oferty.",
+    "extended": "SWZ musi zawierać m.in.: opis przedmiotu zamówienia (OPZ), warunki udziału w postępowaniu, opis kryteriów oceny ofert z wagami procentowymi, termin i miejsce składania ofert, wymagania dotyczące wadium i zabezpieczenia, projektowane postanowienia umowy. Wykonawca powinien przede wszystkim przeanalizować: część I (opis przedmiotu zamówienia), część II (warunki udziału), część III (dokumenty i oświadczenia) oraz część IV (kryteria oceny). SWZ jest dostępna bezpłatnie na platformie e-Zamówienia oraz na stronie zamawiającego. Wykonawcy mogą zadawać pytania do SWZ – zamawiający ma obowiązek odpowiedzieć, jeśli wniosek wpłynął nie później niż 4 dni przed terminem składania ofert (tryb podstawowy) lub 6 dni (przetarg nieograniczony)."
+  },
+  {
+    "slug": "wadium",
+    "term": "Wadium",
+    "shortDef": "Zabezpieczenie finansowe składane przez wykonawcę przed terminem złożenia oferty – gwarancja poważnego traktowania postępowania.",
+    "definition": "Wadium to kwota pieniężna lub inne zabezpieczenie składane przez wykonawcę w celu zabezpieczenia interesów zamawiającego na czas trwania postępowania. Chroni zamawiającego przed sytuacją, gdy wybrany wykonawca odmawia podpisania umowy lub nie składa wymaganych dokumentów. Wadium jest wymagane przez zamawiającego, nie obligatoryjnie – zamawiający decyduje, czy go żądać.",
+    "extended": "Wadium może być wniesione w formie: pieniężnej (przelew na wskazane konto zamawiającego), gwarancji bankowej, gwarancji ubezpieczeniowej, poręczenia bankowego lub kasy oszczędnościowo-kredytowej. Wadium w pieniądzu musi wpłynąć na konto zamawiającego przed terminem składania ofert. Gwarancja musi być bezwarunkowa, nieodwołalna i płatna na pierwsze żądanie. Zamawiający może żądać wadium w wysokości do 3% wartości zamówienia (przy zamówieniach powyżej progów UE) lub do 1,5% (poniżej). Wadium jest zwracane niezwłocznie po: wyborze najkorzystniejszej oferty (wykonawcom niewybranym), zawarciu umowy (wykonawcy wybranemu) lub unieważnieniu postępowania. Zamawiający zatrzymuje wadium gdy wykonawca: uchyli się od zawarcia umowy, nie wniesie zabezpieczenia należytego wykonania, odmówi podpisania umowy na warunkach określonych w ofercie."
+  },
+  {
+    "slug": "kio",
+    "term": "KIO",
+    "shortDef": "Krajowa Izba Odwoławcza – niezależny organ orzekający w sprawach odwołań od decyzji zamawiających w postępowaniach o zamówienie publiczne.",
+    "definition": "KIO (Krajowa Izba Odwoławcza) to organ działający przy Urzędzie Zamówień Publicznych, powołany do rozpatrywania odwołań wykonawców od czynności lub zaniechań zamawiającego w toku postępowania o zamówienie publiczne. KIO orzeka w składach jednosobowych lub trzyosobowych.",
+    "extended": "Odwołanie do KIO można wnieść w terminie 10 dni od dnia, w którym wykonawca dowiedział się lub mógł się dowiedzieć o okolicznościach stanowiących podstawę odwołania (przy zamówieniach unijnych). Przy zamówieniach krajowych termin wynosi 5 dni. Wpis od odwołania zależy od wartości zamówienia: od 7 500 zł do 100 000 zł (przy dostawach i usługach) lub do 200 000 zł (przy robotach budowlanych). KIO może: uwzględnić odwołanie (nakazać zamawiającemu powtórzenie lub unieważnienie czynności), oddalić odwołanie lub umorzyć postępowanie. Od orzeczenia KIO przysługuje skarga do sądu okręgowego (Sądu Zamówień Publicznych). Postępowanie przed KIO trwa zazwyczaj 15 dni roboczych od wniesienia odwołania."
+  },
+  {
+    "slug": "zamawiajacy",
+    "term": "Zamawiający",
+    "shortDef": "Podmiot publiczny zobowiązany do stosowania PZP przy udzielaniu zamówień – urząd, szpital, szkoła, spółka komunalna itp.",
+    "definition": "Zamawiający to podmiot zobowiązany do stosowania przepisów Prawa Zamówień Publicznych przy dokonywaniu zakupów towarów, usług lub robót budowlanych. W Polsce zamawiającymi są m.in.: jednostki sektora finansów publicznych (urzędy, ministerstwa, szkoły, szpitale), inne państwowe jednostki organizacyjne, spółki z większościowym udziałem publicznym.",
+    "extended": "Zamawiający ma szereg obowiązków wynikających z PZP: opublikowanie ogłoszenia w BZP lub TED, udostępnienie SWZ, odpowiadanie na pytania wykonawców, przeprowadzenie postępowania z zachowaniem zasad jawności, równego traktowania i proporcjonalności. Zamawiający nie może dyskryminować wykonawców ani faworyzować określonych podmiotów. Profil zamawiającego można sprawdzić w Atlas Przetargów – widać tam historię postępowań, średnią wartość przetargów, najczęściej stosowane CPV oraz aktywnych wykonawców."
+  },
+  {
+    "slug": "wykonawca",
+    "term": "Wykonawca",
+    "shortDef": "Podmiot (firma, osoba fizyczna lub konsorcjum) ubiegający się o zamówienie publiczne lub realizujący zawartą umowę.",
+    "definition": "Wykonawca to każdy podmiot – osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej – który ubiega się o zamówienie publiczne, złożył ofertę lub zawarł umowę w sprawie zamówienia publicznego. Wykonawcą może być zarówno duża korporacja, jak i jednoosobowa działalność gospodarcza.",
+    "extended": "Wykonawca musi spełniać warunki udziału w postępowaniu określone przez zamawiającego w SWZ: brak podstaw wykluczenia (czyste KRS, brak zaległości podatkowych i ZUS), zdolność techniczna i zawodowa (referencje, personel, sprzęt), sytuacja ekonomiczna (przychody, ubezpieczenie OC). Wykonawca może polegać na zasobach podmiotów trzecich lub tworzyć konsorcjum z innymi firmami. Po wyborze oferty wykonawca zobowiązany jest do złożenia dokumentów podmiotowych (zaświadczeń z KRS, US, ZUS) potwierdzających oświadczenia z JEDZ."
+  },
+  {
+    "slug": "cpv",
+    "term": "CPV",
+    "shortDef": "Wspólny Słownik Zamówień (ang. Common Procurement Vocabulary) – system klasyfikacji produktów i usług w zamówieniach publicznych UE.",
+    "definition": "CPV (Common Procurement Vocabulary – Wspólny Słownik Zamówień) to standardowy system klasyfikacji stosowany w zamówieniach publicznych w całej Unii Europejskiej. Każdy przetarg musi mieć przypisany co najmniej jeden kod CPV określający przedmiot zamówienia. System obejmuje ponad 9 000 kodów podzielonych na działy, grupy, klasy i kategorie.",
+    "extended": "Kod CPV ma format: 8 cyfr + cyfra kontrolna, np. 45233120-6 (Roboty w zakresie budowy dróg). Pierwsze 2 cyfry określają dział (np. 45 = Roboty budowlane), kolejne precyzują kategorię. Zamawiający podaje główny kod CPV (przedmiot główny) i może dodać kody uzupełniające. Przy filtrowaniu przetargów w Atlas Przetargów możesz szukać po prefiksie CPV – filtr „CPV: 45\" pokryje wszystkie roboty budowlane. Znajomość CPV jest kluczowa przy ustawianiu alertów mailowych – źle dobrany kod = przepalone alerty i przeoczone kontrakty."
+  },
+  {
+    "slug": "bzp",
+    "term": "BZP",
+    "shortDef": "Biuletyn Zamówień Publicznych – oficjalny rejestr ogłoszeń o zamówieniach publicznych w Polsce, dostępny na platformie e-Zamówienia.",
+    "definition": "BZP (Biuletyn Zamówień Publicznych) to oficjalny rejestr ogłoszeń o zamówieniach publicznych prowadzony przez Urząd Zamówień Publicznych, dostępny na platformie e-Zamówienia (ezamowienia.gov.pl). Zamawiający mają obowiązek publikowania w BZP ogłoszeń dotyczących zamówień powyżej progu bagatelnego (130 000 zł netto).",
+    "extended": "W BZP publikuje się m.in.: ogłoszenie o zamówieniu (ContractNotice), ogłoszenie o wynikach postępowania (TenderResultNotice), ogłoszenie o udzieleniu zamówienia. BZP zawiera zamówienia krajowe, natomiast zamówienia powyżej progów UE są dodatkowo publikowane w TED (Tenders Electronic Daily). Atlas Przetargów agreguje dane z BZP i TED, umożliwiając przeszukiwanie pełnej bazy z jednego miejsca. Ogłoszenia w BZP są bezpłatne zarówno dla zamawiających (publikacja), jak i dla wykonawców (dostęp)."
+  },
+  {
+    "slug": "ted",
+    "term": "TED",
+    "shortDef": "Tenders Electronic Daily – europejski dziennik zamówień publicznych publikujący ogłoszenia o przetargach powyżej progów UE.",
+    "definition": "TED (Tenders Electronic Daily) to europejski suplement do Dziennika Urzędowego UE, w którym publikowane są ogłoszenia o zamówieniach publicznych i koncesjach powyżej progów unijnych. Prowadzony jest przez Urząd Publikacji Unii Europejskiej i zawiera ogłoszenia ze wszystkich 27 państw członkowskich oraz krajów EOG.",
+    "extended": "TED publikuje codziennie ok. 2 000 nowych ogłoszeń ze wszystkich krajów UE. Obejmuje: ogłoszenia o zamówieniu (F02, F03 i nowe formularze eForms), ogłoszenia o udzieleniu zamówienia, ogłoszenia dobrowolnej przejrzystości ex ante. Progi kwotowe TED (obowiązujące od 1 stycznia 2024 r.): roboty budowlane – 5 538 000 EUR, dostawy i usługi dla jednostek centralnych – 143 000 EUR, dostawy i usługi dla JST – 221 000 EUR. Atlas Przetargów integruje dane z TED i BZP, umożliwiając ich łączne przeszukiwanie w jednym interfejsie."
+  },
+  {
+    "slug": "konsorcjum",
+    "term": "Konsorcjum",
+    "shortDef": "Porozumienie kilku wykonawców wspólnie ubiegających się o zamówienie publiczne – pozwala łączyć zasoby i kompetencje.",
+    "definition": "Konsorcjum w zamówieniach publicznych to porozumienie co najmniej dwóch niezależnych podmiotów (wykonawców), które wspólnie ubiegają się o zamówienie i solidarnie odpowiadają za jego realizację. Uczestnikami konsorcjum mogą być osoby fizyczne, spółki prawa handlowego, stowarzyszenia i inne podmioty.",
+    "extended": "Konsorcjum tworzą podmioty chcące: połączyć potencjał techniczny i finansowy, uzupełnić brakujące referencje, podzielić ryzyko realizacji. W konsorcjum wymagany jest pełnomocnik (lider) reprezentujący wszystkich uczestników przed zamawiającym. Każdy uczestnik konsorcjum składa osobny JEDZ potwierdzający brak podstaw wykluczenia. Odpowiedzialność solidarna oznacza, że zamawiający może dochodzić roszczeń od każdego z uczestników lub od wszystkich łącznie. Konsorcjum nie musi mieć osobowości prawnej – wystarczy umowa konsorcjum podpisana przed złożeniem oferty. Po wyborze oferty zamawiający może żądać przedłożenia umowy konsorcjum."
+  },
+  {
+    "slug": "podwykonawca",
+    "term": "Podwykonawca",
+    "shortDef": "Podmiot, któremu wykonawca powierza realizację części zamówienia publicznego na podstawie umowy o podwykonawstwo.",
+    "definition": "Podwykonawca to podmiot, któremu wykonawca (generalny wykonawca) powierza do realizacji część zamówienia publicznego. Prawo zamówień publicznych reguluje zasady korzystania z podwykonawstwa, w tym obowiązki informacyjne wobec zamawiającego i zasady płatności.",
+    "extended": "Wykonawca musi wskazać w ofercie, jaka część zamówienia zostanie powierzona podwykonawcom (nazwę lub zakres). Zamawiający może zastrzec, że określone kluczowe zadania muszą być realizowane przez wykonawcę osobiście. Zamawiający ma prawo badać, czy nie zachodzą podstawy wykluczenia wobec podwykonawcy. Umowy o podwykonawstwo na roboty budowlane podlegają obowiązkowemu zgłoszeniu zamawiającemu – mają 14 dni na wniesienie sprzeciwu lub zastrzeżeń. Zamawiający może wypłacać wynagrodzenie bezpośrednio podwykonawcom (przy robotach budowlanych) w przypadku nieopłacenia ich przez wykonawcę."
+  },
+  {
+    "slug": "podmiot-trzeci",
+    "term": "Podmiot trzeci",
+    "shortDef": "Zewnętrzna firma udostępniająca wykonawcy swoje zasoby (wiedza, doświadczenie, sprzęt, kadry) w celu spełnienia warunków udziału.",
+    "definition": "Podmiot trzeci to zewnętrzna firma lub osoba, której zasoby (doświadczenie, personel, sprzęt, sytuacja finansowa) wykonawca może wykorzystać w celu wykazania spełnienia warunków udziału w postępowaniu. Podmiot trzeci nie jest uczestnikiem konsorcjum – jest zewnętrznym „gwarantem\" kompetencji.",
+    "extended": "Poleganie na zasobach podmiotu trzeciego wymaga: zobowiązania podmiotu trzeciego (na piśmie, złożonego razem z ofertą), złożenia JEDZ przez podmiot trzeci (potwierdzającego brak podstaw wykluczenia), określenia, w jaki sposób zasoby będą udostępnione (umowa, podwykonawstwo, doradztwo). Podmiot trzeci ponosi solidarną odpowiedzialność za szkodę poniesioną przez zamawiającego, jeśli polegał na jego zasobach zdolności technicznej lub zawodowej. Zamawiający może wymagać, aby podmiot trzeci realizował część zamówienia, do której udostępnia zasoby."
+  },
+  {
+    "slug": "przetarg-nieograniczony",
+    "term": "Przetarg nieograniczony",
+    "shortDef": "Podstawowy tryb udzielania zamówień powyżej progów UE – otwarty dla wszystkich wykonawców, z publikacją ogłoszenia w TED.",
+    "definition": "Przetarg nieograniczony to tryb udzielania zamówień stosowany przede wszystkim przy zamówieniach powyżej progów UE. Jest to tryb otwarty: każdy zainteresowany wykonawca może złożyć ofertę po zapoznaniu się z SWZ. Ogłoszenie o zamówieniu musi być opublikowane w Dzienniku Urzędowym UE (TED).",
+    "extended": "Minimalne terminy w przetargu nieograniczonym: 35 dni na złożenie ofert (liczonych od dnia wysłania ogłoszenia do TED), 15 dni gdy zamawiający opublikował wstępne ogłoszenie informacyjne. Procedura: ogłoszenie → SWZ → pytania i odpowiedzi → złożenie ofert → otwarcie ofert → ocena ofert i kwalifikacja → wybór najkorzystniejszej oferty → podpisanie umowy. Przetarg nieograniczony to najczęściej stosowany tryb przy dużych zamówieniach, zapewniający pełną konkurencję i transparentność."
+  },
+  {
+    "slug": "tryb-podstawowy",
+    "term": "Tryb podstawowy",
+    "shortDef": "Uproszczony tryb udzielania zamówień poniżej progów UE – trzy warianty: bez negocjacji, z negocjacjami fakultatywnymi i z obowiązkowymi negocjacjami.",
+    "definition": "Tryb podstawowy (art. 275 PZP) to tryb stosowany przy zamówieniach poniżej progów UE. Zastąpił m.in. przetarg nieograniczony w mniejszej skali i przetarg ograniczony dla tej grupy zamówień. Charakteryzuje się krótszymi terminami i uproszczonymi wymaganiami formalnymi.",
+    "extended": "Tryb podstawowy ma 3 warianty: Wariant 1 (art. 275 pkt 1) – bez negocjacji, oferta wybierana bezpośrednio, termin min. 7 dni (usługi i dostawy) lub 14 dni (roboty budowlane). Wariant 2 (art. 275 pkt 2) – z możliwością negocjacji z 3 wykonawcami, którzy złożyli oferty. Wariant 3 (art. 275 pkt 3) – z obowiązkowymi negocjacjami (jak przetarg ograniczony). Tryb podstawowy stosuje się przy zamówieniach od 130 000 zł netto (próg bagatelny) do wartości progów UE."
+  },
+  {
+    "slug": "kryteria-oceny-ofert",
+    "term": "Kryteria oceny ofert",
+    "shortDef": "Zasady i wagi procentowe, według których zamawiający porównuje i wybiera najkorzystniejszą ofertę spośród złożonych.",
+    "definition": "Kryteria oceny ofert to parametry określone przez zamawiającego w SWZ, na podstawie których dokonywany jest wybór najkorzystniejszej oferty. Muszą być obiektywne, mierzalne i związane z przedmiotem zamówienia. Zamawiający podaje kryteria z wagami procentowymi sumującymi się do 100%.",
+    "extended": "Cena musi stanowić co najmniej 60% wagi, chyba że zamawiający uzasadni inaczej (np. specjalistyczny charakter zamówienia). Przykładowe kryteria pozacenowe: termin wykonania, okres gwarancji, doświadczenie personelu kluczowego, parametry techniczne, koszty eksploatacji, jakość obsługi. Najczęstszy schemat: cena 60% + termin 20% + gwarancja 20%. Oferty są punktowane i sumowane: Łączna punktacja = (cena_min / cena_oferenta × waga_ceny) + (termin_min / termin_oferenta × waga_terminu) + ..."
+  },
+  {
+    "slug": "razaco-niska-cena",
+    "term": "Rażąco niska cena",
+    "shortDef": "Cena oferty budząca wątpliwości co do możliwości realizacji zamówienia za podaną kwotę – zamawiający może wyjaśniać lub odrzucić taką ofertę.",
+    "definition": "Rażąco niska cena to cena oferty, która jest nieproporcjonalnie niska w stosunku do wartości lub zakresu zamówienia i budzi uzasadnione wątpliwości co do możliwości jej prawidłowej realizacji. Zamawiający jest zobowiązany zbadać cenę, jeśli jest o ponad 30% niższa od wartości szacunkowej zamówienia lub od średniej arytmetycznej cen pozostałych ofert.",
+    "extended": "Procedura wyjaśniania rażąco niskiej ceny: zamawiający wzywa wykonawcę do złożenia wyjaśnień w terminie nie krótszym niż 5 dni. Wykonawca musi udowodnić realność ceny, podając m.in.: oszczędności metody wykonania, korzystniejsze warunki zakupu materiałów, pomoc publiczną, niższe koszty pracy. Jeśli wyjaśnienia nie są przekonujące, zamawiający odrzuca ofertę. Oferta musi pokrywać koszty pracy co najmniej w wysokości minimalnego wynagrodzenia i kosztów pracy osób realizujących zamówienie."
+  },
+  {
+    "slug": "odrzucenie-oferty",
+    "term": "Odrzucenie oferty",
+    "shortDef": "Decyzja zamawiającego o nieuwzględnieniu oferty w postępowaniu z powodu niespełnienia wymagań formalnych lub merytorycznych.",
+    "definition": "Odrzucenie oferty to decyzja zamawiającego o wyłączeniu oferty z dalszego postępowania. Zamawiający odrzuca ofertę w ściśle określonych przypadkach wymienionych w art. 226 PZP. Odrzucona oferta nie jest brana pod uwagę przy wyborze najkorzystniejszej.",
+    "extended": "Przesłanki odrzucenia oferty (art. 226 PZP): niezgodność z warunkami zamówienia (SWZ), złożona przez podmiot podlegający wykluczeniu, zawiera rażąco niską cenę (po bezskutecznym wezwaniu do wyjaśnień), złożona po terminie, zawiera błąd w obliczeniu ceny lub kosztu niemożliwy do poprawienia, wykonawca nie zgodził się na poprawienie omyłki rachunkowej, jej złożenie stanowi czyn nieuczciwej konkurencji, nie spełnia wymagań formalnych (np. brak podpisu, forma niezgodna z wymaganiami). Zamawiający informuje o odrzuceniu oferty i jego przyczynach – wykonawca może odwołać się do KIO."
+  },
+  {
+    "slug": "wykluczenie-wykonawcy",
+    "term": "Wykluczenie wykonawcy",
+    "shortDef": "Decyzja zamawiającego o niedopuszczeniu wykonawcy do udziału w postępowaniu z powodu zaistnienia podstaw wykluczenia.",
+    "definition": "Wykluczenie wykonawcy to decyzja zamawiającego o niedopuszczeniu do udziału w postępowaniu podmiotu, wobec którego zachodzą podstawy wykluczenia określone w art. 108-109 PZP. Oferta wykonawcy wykluczonego jest odrzucana.",
+    "extended": "Obligatoryjne podstawy wykluczenia (art. 108 PZP): skazanie za przestępstwa korupcyjne, pranie pieniędzy, udział w organizacji przestępczej; niewykonanie lub nienależyte wykonanie umowy (jeśli prowadziło do jej rozwiązania); zaległości podatkowe i ZUS; prawomocne skazanie za przestępstwo. Fakultatywne podstawy (art. 109 PZP) zamawiający może stosować – np. naruszenie etyki zawodowej, likwidacja lub upadłość, nierzetelne wykazanie wyników. Wykonawca może dokonać „samooczyszczenia\" (self-cleaning), podejmując środki naprawcze, które zamawiający bierze pod uwagę."
+  },
+  {
+    "slug": "zabezpieczenie-nalezytego-wykonania-umowy",
+    "term": "Zabezpieczenie należytego wykonania umowy",
+    "shortDef": "Kwota lub gwarancja złożona przez wykonawcę po wyborze oferty – chroni zamawiającego na wypadek niewykonania lub nienależytego wykonania zamówienia.",
+    "definition": "Zabezpieczenie należytego wykonania umowy to środki finansowe lub instrument gwarancyjny składany przez wykonawcę przed podpisaniem umowy, zapewniający zamawiającemu ochronę finansową na wypadek niewykonania lub nienależytego wykonania zamówienia.",
+    "extended": "Zabezpieczenie może wynosić od 2% do 5% ceny całkowitej brutto (wyjątkowo do 10% w uzasadnionych przypadkach). Formy: pieniężna (przelew), gwarancja bankowa lub ubezpieczeniowa, poręczenie bankowe, weksel z poręczeniem. Po wykonaniu zamówienia: 70% wartości jest zwracane w ciągu 30 dni od odbioru, 30% pozostaje przez okres rękojmi (zwracane po jej upływie). Zamawiający może nie żądać zabezpieczenia, gdy wartość zamówienia jest mniejsza niż progi unijne (przy trybie podstawowym)."
+  },
+  {
+    "slug": "waloryzacja",
+    "term": "Waloryzacja",
+    "shortDef": "Mechanizm dostosowania wynagrodzenia wykonawcy do zmian kosztów realizacji zamówienia (inflacja, ceny materiałów, kurs walut).",
+    "definition": "Waloryzacja w zamówieniach publicznych to zmiana wynagrodzenia wykonawcy wynikająca ze zmiany czynników cenotwórczych (inflacja, wzrost cen materiałów, energii, paliwa, zmiany płac minimalnych, kursy walut). Od 2023 r. przy umowach na roboty budowlane trwających powyżej 12 miesięcy zamawiający ma obowiązek zawrzeć klauzulę waloryzacyjną.",
+    "extended": "Klauzula waloryzacyjna powinna określać: podstawę do waloryzacji (indeks GUS, wskaźnik inflacji, ceny specyficzne), zakres procentowy zmian uzasadniający waloryzację (zwykle min. 5-10%), maksymalną wartość waloryzacji (zwykle do 5% wynagrodzenia pierwotnego), tryb i terminy składania wniosków. W praktyce: wykonawca składa wniosek o waloryzację z dokumentacją potwierdzającą wzrost kosztów, zamawiający weryfikuje i zmienia umowę aneksem. KIO wydała liczne orzeczenia dotyczące zasad waloryzacji – warto śledzić orzecznictwo."
+  },
+  {
+    "slug": "zamowienie-z-wolnej-reki",
+    "term": "Zamówienie z wolnej ręki",
+    "shortDef": "Tryb niekonkurencyjny, w którym zamawiający negocjuje i udziela zamówienia bezpośrednio jednemu wykonawcy bez ogłoszenia przetargu.",
+    "definition": "Zamówienie z wolnej ręki (art. 304-306 PZP) to tryb niekonkurencyjny, stosowany wyłącznie w wyjątkowych okolicznościach określonych w ustawie. Zamawiający prowadzi negocjacje tylko z jednym wybranym wykonawcą, bez wcześniejszego ogłoszenia.",
+    "extended": "Przesłanki zastosowania trybu z wolnej ręki: brak możliwości wyłonienia wykonawcy w trybie konkurencyjnym (brak ofert, odrzucenie wszystkich ofert), pilna potrzeba udzielenia zamówienia spowodowana wyjątkowymi okolicznościami (np. klęska żywiołowa – nie z winy zamawiającego), zamówienie może być zrealizowane tylko przez jednego wykonawcę ze względów technicznych lub ochrony praw wyłącznych, zamówienie uzupełniające (do 50% wartości pierwotnego). Tryb z wolnej ręki jest ściśle kontrolowany przez organy nadzoru – nieprawidłowe zastosowanie może skutkować zarzutem naruszenia dyscypliny finansów publicznych."
+  },
+  {
+    "slug": "plan-postepowania",
+    "term": "Plan postępowań",
+    "shortDef": "Dokument publikowany przez zamawiającego na początku roku, zawierający wykaz planowanych zamówień – ważne narzędzie prospectingu dla wykonawców.",
+    "definition": "Plan postępowań o udzielenie zamówień to dokument, który zamawiający zobowiązani są publikować co roku do 31 stycznia (lub w ciągu 30 dni od uchwalenia budżetu). Zawiera wykaz zamówień planowanych do udzielenia w danym roku.",
+    "extended": "Plan postępowań zawiera: opis przedmiotu zamówienia, rodzaj zamówienia (roboty, dostawy, usługi), szacowaną wartość, przewidywany tryb, orientacyjny termin wszczęcia postępowania. Plany postępowań są publikowane na platformie e-Zamówienia (ezamowienia.gov.pl). Dla wykonawców to kluczowe narzędzie prospectingu – pozwala dowiedzieć się o nadchodzących przetargach z kilkumiesięcznym wyprzedzeniem i przygotować się (referencje, konsorcja, koszty). Plan można aktualizować w ciągu roku."
+  },
+  {
+    "slug": "progi-unijne",
+    "term": "Progi unijne",
+    "shortDef": "Wartości zamówień powyżej których zamawiający musi stosować pełne procedury UE i publikować ogłoszenia w TED.",
+    "definition": "Progi unijne to kwotowe wartości zamówień, powyżej których zamawiający mają obowiązek stosować bardziej rozbudowane procedury wynikające z dyrektyw UE oraz publikować ogłoszenia w TED (Tenders Electronic Daily). Progi są aktualizowane co dwa lata przez Komisję Europejską.",
+    "extended": "Progi unijne obowiązujące od 1 stycznia 2024 r.: Roboty budowlane: 5 538 000 EUR. Dostawy i usługi – zamawiający centralni: 143 000 EUR. Dostawy i usługi – JST i inne jednostki: 221 000 EUR. Dostawy i usługi – zamawiający sektorowi: 443 000 EUR. Koncesje: 5 538 000 EUR. Powyżej progów obowiązuje: przetarg nieograniczony lub inny tryb z publikacją w TED, dłuższe terminy składania ofert (min. 35 dni), JEDZ zamiast oświadczeń krajowych, pełna procedura odwoławcza do KIO."
+  },
+  {
+    "slug": "prog-bagatelny",
+    "term": "Próg bagatelny",
+    "shortDef": "Kwota 130 000 zł netto – minimalna wartość zamówienia, od której obowiązują przepisy PZP.",
+    "definition": "Próg bagatelny to minimalna wartość zamówienia (130 000 zł netto), od której zamawiający ma obowiązek stosować przepisy ustawy PZP. Poniżej tej kwoty zamawiający może udzielić zamówienia w dowolny sposób, zachowując jedynie zasady oszczędności i efektywnego zarządzania środkami publicznymi.",
+    "extended": "Dla zamówień poniżej progu bagatelnego (do 130 000 zł netto) zamawiający nie musi: publikować ogłoszenia w BZP ani TED, stosować trybów przetargowych, żądać JEDZ ani dokumentów podmiotowych. Może jednak stosować własne regulaminy wewnętrzne. Zamówienia o wartości 50 000 zł – 130 000 zł netto traktuje się jako „zamówienia bagatelne\" – zamawiający może je udzielać bez formalnych procedur, ale musi ogłosić informację o udzieleniu w BZP. Atlas Przetargów zawiera zarówno przetargi formalne (powyżej progu bagatelnego), jak i część zamówień bagatelnych ogłaszanych przez zamawiających."
+  },
+  {
+    "slug": "oferta",
+    "term": "Oferta",
+    "shortDef": "Formalne oświadczenie wykonawcy zawierające propozycję realizacji zamówienia na określonych warunkach cenowych i technicznych.",
+    "definition": "Oferta w postępowaniu o zamówienie publiczne to formalne oświadczenie wykonawcy wyrażające wolę zawarcia umowy na warunkach określonych w SWZ i w złożonej ofercie. Oferta jest złożona elektronicznie przez platformę zakupową lub e-Zamówienia, podpisana kwalifikowanym podpisem elektronicznym.",
+    "extended": "Oferta zazwyczaj zawiera: formularz ofertowy z ceną, opis techniczny (jeśli wymagany), oświadczenie o spełnieniu warunków (JEDZ lub oświadczenie krajowe), wadium (potwierdzenie wpłaty lub gwarancja), pełnomocnictwa (w przypadku konsorcjum lub reprezentacji). Oferta musi być złożona przed terminem – po upływie terminu nie jest możliwe jej złożenie ani modyfikacja. Wykonawca może wycofać ofertę przed upływem terminu składania. Cena w ofercie jest ceną ryczałtową (stałą) lub kosztorysową (wynikającą z pozycji kosztorysu)."
+  },
+  {
+    "slug": "oswiadczenie-wstepne",
+    "term": "Oświadczenie wstępne",
+    "shortDef": "Oświadczenie wykonawcy składane razem z ofertą, potwierdzające spełnienie warunków udziału i brak podstaw wykluczenia – substytut JEDZ przy zamówieniach krajowych.",
+    "definition": "Oświadczenie wstępne (art. 125 PZP) to oświadczenie składane przez wykonawcę razem z ofertą, które zastępuje zaświadczenia urzędowe na etapie wstępnym postępowania. W odróżnieniu od JEDZ, stosowane jest przy zamówieniach poniżej progów UE.",
+    "extended": "Oświadczenie wstępne zawiera: potwierdzenie spełnienia warunków udziału w postępowaniu (zdolność techniczna, finansowa), potwierdzenie braku podstaw wykluczenia (brak skazań, brak zaległości). Zamawiający wzywa wybranego wykonawcę (lub kilku przy procedurze odwróconej) do złożenia dokumentów podmiotowych dopiero po weryfikacji ofert. Dokumenty podmiotowe to m.in.: zaświadczenie z KRS lub CEIDG, zaświadczenie z US o niezaleganiu z podatkami, zaświadczenie z ZUS, opłacona polisa OC, referencje."
+  },
+  {
+    "slug": "e-zamowienia",
+    "term": "e-Zamówienia",
+    "shortDef": "Oficjalna platforma zamówień publicznych prowadzona przez UZP – dostępna pod adresem ezamowienia.gov.pl – obowiązkowa do składania ofert.",
+    "definition": "e-Zamówienia to platforma elektroniczna prowadzona przez Urząd Zamówień Publicznych, dostępna pod adresem ezamowienia.gov.pl. Jest oficjalnym miejscem publikacji ogłoszeń (BZP), składania ofert, wniosków i dokumentów w postępowaniach o zamówienie publiczne.",
+    "extended": "Główne funkcjonalności e-Zamówienia: Biuletyn Zamówień Publicznych (BZP) – publikacja ogłoszeń, Platforma e-Zamówień (PeZ) – elektroniczne składanie ofert, JEDZ/ESPD – wypełnianie formularza oświadczenia, eSender – przekazywanie ogłoszeń do TED, plany postępowań zamawiających, moduł ankiet. Dla wykonawców konieczna jest rejestracja konta (bezpłatna). Do podpisywania dokumentów wymagany jest kwalifikowany podpis elektroniczny (zamówienia unijne) lub podpis zaufany ePUAP (zamówienia krajowe). Atlas Przetargów agreguje ogłoszenia z platformy e-Zamówienia i prezentuje je w przejrzystym interfejsie."
+  },
+  {
+    "slug": "tajemnica-przedsiebiorstwa",
+    "term": "Tajemnica przedsiębiorstwa",
+    "shortDef": "Informacje stanowiące wartość handlową, które wykonawca może zastrzec w ofercie, wyłączając je z jawności postępowania.",
+    "definition": "Tajemnica przedsiębiorstwa w zamówieniach publicznych to informacje techniczne, technologiczne, organizacyjne lub inne posiadające wartość gospodarczą, które wykonawca zastrzega w ofercie jako poufne. Zasada jawności postępowania obowiązuje co do zasady, ale doznaje ograniczenia ze względu na uzasadnione interesy handlowe wykonawcy.",
+    "extended": "Wykonawca może zastrzec tajemnicę przedsiębiorstwa, składając wraz z ofertą uzasadnienie zawierające: wskazanie, jakie informacje są tajemnicą, wskazanie podjętych działań w celu utrzymania poufności, wyjaśnienie wartości handlowej informacji. Zamawiający weryfikuje zastrzeżenie – jeśli uzna je za nieuzasadnione, może ujawnić informacje. Najczęściej zastrzegane elementy: kalkulacje cenowe, listy podwykonawców, techniczne know-how, dane o marżach. Zamawiający ma obowiązek udostępnić protokół i wszystkie niezastrzeżone dokumenty każdemu zainteresowanemu."
+  },
+  {
+    "slug": "srodki-ochrony-prawnej",
+    "term": "Środki ochrony prawnej",
+    "shortDef": "Instrumenty prawne przysługujące wykonawcom w celu zaskarżenia czynności lub zaniechań zamawiającego – odwołanie do KIO i skarga do sądu.",
+    "definition": "Środki ochrony prawnej to instrumenty umożliwiające wykonawcom (i innym uprawnionym podmiotom) kwestionowanie czynności lub zaniechań zamawiającego niezgodnych z PZP. Podstawowe środki to: odwołanie (do KIO) i skarga (do sądu).",
+    "extended": "Odwołanie do KIO – wnosi się do Prezesa KIO (w formie elektronicznej), termin 10 dni (zamówienia unijne) lub 5 dni (krajowe). Wpis od odwołania: 7 500–200 000 zł zależnie od wartości i rodzaju zamówienia. KIO rozstrzyga w ciągu 15 dni. Skarga do sądu – od orzeczenia KIO, do Sądu Zamówień Publicznych w Warszawie, termin 14 dni od doręczenia orzeczenia KIO. Można też zaskarżyć czynności zamawiającego z pominięciem KIO – bezpośrednio do sądu, gdy wartość zamówienia jest poniżej progu unijnego i dotyczy tylko specyficznych czynności."
+  },
+  {
+    "slug": "umowa-ramowa",
+    "term": "Umowa ramowa",
+    "shortDef": "Porozumienie ustalające warunki przyszłych zamówień z jednym lub kilkoma wykonawcami na czas określony (max. 4 lata).",
+    "definition": "Umowa ramowa (art. 311-315 PZP) to umowa zawierana z jednym lub kilkoma wykonawcami, ustalająca warunki zamówień, jakie mogą być udzielane w danym okresie. Pozwala zamawiającemu realizować wielokrotnie zamówienia na podobne dostawy, usługi lub roboty bez przeprowadzania pełnego postępowania za każdym razem.",
+    "extended": "Umowa ramowa może być zawarta na max. 4 lata (6 lat przy zamówieniach sektorowych lub obronnych). Zamawiający może zawrzeć umowę ramową z jednym wykonawcą (zamówienia udzielane bez mini-konkursu) lub z kilkoma (z mini-konkursem lub bez, zależnie od konfiguracji). Zamówienia na podstawie umowy ramowej nie mogą być udzielane przed jej zawarciem. Wartość szacunkowa = suma wartości wszystkich zamówień planowanych w ramach umowy. Umowy ramowe są często stosowane w IT (licencje, wsparcie), utrzymaniu budynków, dostawach materiałów biurowych."
+  },
+  {
+    "slug": "aukcja-elektroniczna",
+    "term": "Aukcja elektroniczna",
+    "shortDef": "Etap postępowania, w którym wykonawcy składają kolejne, lepsze oferty cenowe lub parametryczne za pośrednictwem narzędzia elektronicznego.",
+    "definition": "Aukcja elektroniczna (art. 227-243 PZP) to interaktywna procedura, w której wykonawcy (po wstępnej kwalifikacji ofert) mają możliwość sukcesywnego poprawiania swoich ofert cenowych lub innych parametrów w określonym czasie rzeczywistym. Stosowana jako dodatkowy etap, a nie samodzielna procedura.",
+    "extended": "Aukcja elektroniczna może dotyczyć: ceny, kosztu eksploatacji, innych parametrów wskazanych w zaproszeniu. Warunki stosowania aukcji: zamawiający musi zapowiedzieć ją w ogłoszeniu o zamówieniu i opisać w SWZ, wymagane elektroniczne narzędzie aukcyjne. Przebieg: zamawiający ocenia oferty wstępne → zaprasza kwalifikowanych wykonawców do aukcji (min. 2) → aukcja trwa określony czas (min. 30 min), może być automatycznie przedłużana. Wygrywa najlepsza oferta po zakończeniu aukcji."
+  },
+  {
+    "slug": "dynamiczny-system-zakupow",
+    "term": "Dynamiczny system zakupów (DSZ)",
+    "shortDef": "W pełni elektroniczny, otwarty przez cały okres ważności system zakupów dla powszechnie dostępnych dostaw i usług.",
+    "definition": "Dynamiczny system zakupów (DSZ, art. 244-254 PZP) to całkowicie elektroniczny system nabywania, przeznaczony do zakupu standardowych, ogólnie dostępnych towarów lub usług. Zamawiający ustanawia DSZ na określony czas (max. 4 lata), a wykonawcy mogą przystępować do systemu przez cały okres jego trwania.",
+    "extended": "DSZ stosuje się dla zakupów powtarzalnych: artykułów biurowych, sprzętu IT, usług sprzątania. Wykonawca zainteresowany może złożyć wniosek o włączenie do DSZ w każdym momencie. Po włączeniu może składać oferty na poszczególne zamówienia udzielane w ramach systemu. DSZ jest podobny do umowy ramowej, ale jest otwarty na nowych wykonawców przez cały czas trwania. Zamówienia w DSZ wymagają zaproszenia do składania ofert elektronicznie."
+  },
+  {
+    "slug": "pzp",
+    "term": "PZP",
+    "shortDef": "Prawo Zamówień Publicznych – ustawa z 11 września 2019 r. regulująca zasady udzielania zamówień publicznych w Polsce.",
+    "definition": "PZP (Prawo Zamówień Publicznych) to ustawa z dnia 11 września 2019 r. (Dz.U. 2019 poz. 2019 ze zm.), która weszła w życie 1 stycznia 2021 r. i zastąpiła poprzednią ustawę z 2004 r. Reguluje zasady i tryby udzielania zamówień publicznych, umów koncesji oraz zasady kontroli.",
+    "extended": "Kluczowe zasady PZP: zasada jawności, równego traktowania, przejrzystości, proporcjonalności, efektywności. Ustawa implementuje dyrektywy UE: 2014/24/UE (zamówienia klasyczne), 2014/25/UE (sektorowe), 2014/23/UE (koncesje). Zmiany vs poprzednia ustawa: nowy tryb podstawowy (zastąpił kilka starszych trybów), obowiązkowa elektronizacja, nowe zasady oceny ofert, wzmocnione środki ochrony prawnej, lepsza ochrona podwykonawców. Tekst ujednolicony dostępny jest bezpłatnie na stronie UZP i isap.sejm.gov.pl."
+  },
+  {
+    "slug": "uzp",
+    "term": "UZP",
+    "shortDef": "Urząd Zamówień Publicznych – centralny organ administracji rządowej nadzorujący system zamówień publicznych w Polsce.",
+    "definition": "UZP (Urząd Zamówień Publicznych) to centralny organ administracji rządowej, działający pod kierownictwem Prezesa UZP. Odpowiada za nadzór nad systemem zamówień publicznych, prowadzenie BZP, interpretację przepisów oraz promowanie dobrych praktyk.",
+    "extended": "Zadania UZP: prowadzenie Biuletynu Zamówień Publicznych (BZP) i platformy e-Zamówienia, wydawanie opinii i interpretacji przepisów, przeprowadzanie kontroli postępowań, obsługa KIO (Krajowej Izby Odwoławczej), przygotowywanie aktów prawnych i zmian legislacyjnych, prowadzenie systemu teleinformatycznego dla e-zamówień, publikacja statystyk rynku zamówień publicznych. Prezes UZP wydaje opinie prawne, które mają charakter interpretacyjny (nie są wiążące, ale są powszechnie respektowane przez zamawiających i orzecznictwo)."
+  },
+  {
+    "slug": "opis-przedmiotu-zamowienia",
+    "term": "Opis przedmiotu zamówienia (OPZ)",
+    "shortDef": "Część SWZ szczegółowo definiująca zakres i wymagania dotyczące zamówienia – kluczowa dla przygotowania oferty.",
+    "definition": "Opis przedmiotu zamówienia (OPZ) to część specyfikacji warunków zamówienia (SWZ) szczegółowo określająca zakres zamówienia, wymagania techniczne, jakościowe i funkcjonalne, które musi spełniać oferowany produkt, usługa lub robota budowlana.",
+    "extended": "OPZ powinien być: jednoznaczny i wyczerpujący, nie preferować konkretnych marek lub produktów (zakaz faworyzowania), oparty na obiektywnych kryteriach, uwzględniający dostępność dla niepełnosprawnych (jeśli dotyczy). Zakazane jest opisywanie przedmiotu zamówienia przez wskazanie znaków towarowych, patentów lub szczególnego pochodzenia – chyba że zamawiający dopuszcza rozwiązania równoważne (dopisek „lub równoważny\"). OPZ może zawierać: dokumentację projektową (przy robotach budowlanych), specyfikacje techniczne, program funkcjonalno-użytkowy (PFU), wzory umów i wymagania jakościowe."
+  },
+  {
+    "slug": "negocjacje-z-ogloszeniem",
+    "term": "Negocjacje z ogłoszeniem",
+    "shortDef": "Tryb udzielania zamówień, w którym zamawiający negocjuje warunki zamówienia z zaproszonymi wykonawcami po wstępnej kwalifikacji.",
+    "definition": "Negocjacje z ogłoszeniem (art. 153-161 PZP) to tryb udzielania zamówień, w którym zamawiający ogłasza chęć zawarcia umowy i zaprasza wykonawców do składania wniosków o dopuszczenie do udziału. Po kwalifikacji zamawiający negocjuje z wybranymi wykonawcami warunki zamówienia, po czym wykonawcy składają finalne oferty.",
+    "extended": "Stosuje się gdy: potrzeby zamawiającego nie mogą być spełnione przez istniejące rozwiązania bez adaptacji, zamówienie obejmuje projektowanie lub innowacyjne rozwiązania, przetarg nieograniczony lub ograniczony zakończył się brakiem ofert lub odrzuceniem wszystkich. Zamawiający może zaprosić do negocjacji nieograniczoną liczbę wykonawców (ale zazwyczaj ogranicza do 3–20). Negocjacje muszą dotyczyć specyfikacji technicznych, nie mogą dotyczyć minimalnych wymagań i kryteriów oceny."
+  },
+  {
+    "slug": "dialog-konkurencyjny",
+    "term": "Dialog konkurencyjny",
+    "shortDef": "Tryb postępowania stosowany przy szczególnie złożonych zamówieniach – zamawiający prowadzi dialog z wykonawcami w celu znalezienia optymalnego rozwiązania.",
+    "definition": "Dialog konkurencyjny (art. 162-167 PZP) to tryb przeznaczony dla szczególnie złożonych zamówień, gdy zamawiający nie jest w stanie samodzielnie opisać przedmiotu zamówienia lub określić jego warunków prawnych i finansowych. Zamawiający prowadzi otwarty dialog z dopuszczonymi wykonawcami, szukając rozwiązań najlepiej odpowiadających potrzebom.",
+    "extended": "Stosuje się głównie przy: infrastrukturze IT (złożone systemy informatyczne), projektach PPP (partnerstwo publiczno-prywatne), innowacyjnych projektach budowlanych, złożonych projektach z finansowaniem zewnętrznym. Przebieg: ogłoszenie → kwalifikacja wykonawców → faza dialogu (kilka rund, poufna) → zaproszenie do składania ofert na podstawie wyniku dialogu → wybór najkorzystniejszej oferty. Dialog jest poufny – zamawiający nie może ujawnić propozycji jednego uczestnika innym bez jego zgody."
+  },
+  {
+    "slug": "protokol-postepowania",
+    "term": "Protokół postępowania",
+    "shortDef": "Obowiązkowy dokument sporządzany przez zamawiającego, dokumentujący przebieg postępowania od wszczęcia do udzielenia zamówienia.",
+    "definition": "Protokół postępowania to dokument, który zamawiający ma obowiązek sporządzić dla każdego postępowania o zamówienie publiczne. Dokumentuje wszystkie istotne czynności wykonane w toku postępowania.",
+    "extended": "Protokół zawiera m.in.: dane zamawiającego, opis przedmiotu zamówienia, wartość szacunkową, tryb postępowania, informacje o wykonawcach, którzy złożyli oferty, ocenę i porównanie złożonych ofert, informację o wyborze najkorzystniejszej oferty z uzasadnieniem, ewentualne informacje o unieważnieniu. Protokół jest jawny – każdy zainteresowany może go otrzymać (z wyjątkiem zastrzeżonych informacji). Zamawiający udostępnia protokół niezwłocznie po zakończeniu postępowania, a w trakcie – po podpisaniu umowy lub unieważnieniu. Protokół jest podstawą do wniesienia odwołania do KIO."
+  },
+  {
+    "slug": "referencje",
+    "term": "Referencje",
+    "shortDef": "Dokumenty potwierdzające doświadczenie wykonawcy w realizacji podobnych zamówień – wymagane jako dowód zdolności zawodowej.",
+    "definition": "Referencje (wykaz dostaw, usług lub robót budowlanych) to dokumenty potwierdzające, że wykonawca zrealizował zamówienia podobne do aktualnie ogłoszonego i wywiązał się z nich należycie. Są głównym dowodem zdolności zawodowej i technicznej w postępowaniach o zamówienie publiczne.",
+    "extended": "Referencje mogą mieć formę: poświadczeń od podmiotów, dla których wykonywano zamówienie (najsilniejszy dowód), oświadczenia własnego wykonawcy (gdy poświadczenie nie może być uzyskane z przyczyn obiektywnych). Zamawiający określa wymagania dotyczące referencji w SWZ: minimalną wartość zamówień referencyjnych, rodzaj (roboty, usługi, dostawy), okres (zazwyczaj ostatnie 3–5 lat), liczbę zamówień. Uwaga: referencje powinny być zgodne z wymaganiami SWZ co do wartości, zakresu i okresu. Brak wymaganych referencji = niespełnienie warunków udziału = wykluczenie z postępowania."
+  },
+  {
+    "slug": "partnerstwo-innowacyjne",
+    "term": "Partnerstwo innowacyjne",
+    "shortDef": "Tryb postępowania umożliwiający wspólne opracowanie innowacyjnego produktu lub usługi z ich późniejszym zakupem przez zamawiającego.",
+    "definition": "Partnerstwo innowacyjne (art. 297-303 PZP) to tryb przeznaczony dla zamówień, których celem jest opracowanie innowacyjnego produktu, usługi lub roboty budowlanej niedostępnej na rynku, a następnie nabycie wynikłych z tego dostaw, usług lub robót. Łączy fazę badań i rozwoju z fazą zamówienia.",
+    "extended": "Partnerstwo innowacyjne stosuje się gdy: potrzeba zamawiającego wymaga innowacyjnego rozwiązania niedostępnego na rynku, zasadne jest połączenie etapu B+R z zakupem wyników. Zamawiający nawiązuje partnerstwo z jednym lub kilkoma wykonawcami w celu: prowadzenia prac B+R, opracowania prototypu i testowania, dostawy lub wdrożenia wyniku. Umowa może obejmować etapy z możliwością zakończenia partnerstwa po każdym etapie, jeśli wyniki nie spełniają wymagań. Minimalne wynagrodzenie uczestników musi uwzględniać koszty B+R."
+  },
+  {
+    "slug": "oferta-rownowazna",
+    "term": "Oferta równoważna",
+    "shortDef": "Oferta proponująca rozwiązanie inne niż wskazane w OPZ, lecz spełniające te same funkcje i parametry techniczne.",
+    "definition": "Oferta równoważna to oferta proponująca produkt, materiał lub rozwiązanie techniczne inne niż wskazane przez zamawiającego z nazwy lub znaku towarowego, pod warunkiem że spełnia wszystkie wymagania funkcjonalne i parametry techniczne opisane w OPZ. Zamawiający dopuszcza oferty równoważne poprzez dopisek \"lub równoważny\" przy opisie produktu.",
+    "extended": "Prawo zamówień publicznych zakazuje opisu przedmiotu zamówienia przez wskazanie konkretnych znaków towarowych, patentów lub pochodzenia, chyba że zamawiający dopuszcza oferty równoważne. Wykonawca składający ofertę równoważną musi udowodnić, że oferowane rozwiązanie spełnia wymagania zamawiającego – ciężar dowodu spoczywa na wykonawcy, nie na zamawiającym. Dokumentami potwierdzającymi równoważność są: karty techniczne, certyfikaty, aprobaty, wyniki badań laboratoryjnych, opisy techniczne producenta. Zamawiający ocenia równoważność na etapie badania ofert. Jeśli uzna, że oferta nie jest równoważna, odrzuca ją na podstawie niezgodności z warunkami zamówienia. Wykonawca może odwołać się do KIO, jeśli ocena równoważności była błędna."
+  },
+  {
+    "slug": "postepowanie-odwolawcze",
+    "term": "Postępowanie odwoławcze",
+    "shortDef": "Postępowanie przed KIO wszczynane przez wykonawcę kwestionującego czynności lub zaniechania zamawiającego.",
+    "definition": "Postępowanie odwoławcze to formalne postępowanie toczące się przed Krajową Izbą Odwoławczą (KIO) wszczęte na skutek wniesienia odwołania przez wykonawcę lub inny uprawniony podmiot. Jest podstawowym środkiem ochrony prawnej w zamówieniach publicznych.",
+    "extended": "Odwołanie wnosi się do Prezesa KIO w formie elektronicznej, za pośrednictwem elektronicznej skrzynki podawczej KIO na ePUAP. Odwołanie musi zawierać: oznaczenie zamawiającego, wskazanie zaskarżonej czynności, żądania odwołującego, zwięzłe przytoczenie zarzutów, dowody. Termin na wniesienie odwołania: 10 dni od dnia, gdy wykonawca dowiedział się o czynności (zamówienia unijne), 5 dni (zamówienia krajowe). Zamawiający może uwzględnić odwołanie w całości przed otwarciem rozprawy – wówczas postępowanie umarza się. Rozprawa jest jawna, odbywa się zazwyczaj w Warszawie w siedzibie KIO. Skład orzekający: 1 lub 3 arbitrów. Orzeczenie KIO (wyrok lub postanowienie o umorzeniu) ogłaszane jest zazwyczaj tego samego dnia lub następnego."
+  },
+  {
+    "slug": "zamowienie-spoleczne",
+    "term": "Zamówienie na usługi społeczne",
+    "shortDef": "Kategoria zamówień na usługi zdrowotne, edukacyjne, socjalne i kulturalne objęta uproszczoną procedurą w PZP.",
+    "definition": "Zamówienia na usługi społeczne i inne szczególne usługi (art. 359-371 PZP) obejmują m.in. usługi zdrowotne, opiekuńcze, edukacyjne, kulturalne, hotelarskie i cateringowe. Dla tych zamówień PZP przewiduje uproszczony reżim – mniej rygorystyczne procedury niż przy standardowych zamówieniach.",
+    "extended": "Próg dla zamówień na usługi społeczne wynosi 750 000 EUR (powyżej którego obowiązuje uproszczona procedura unijna). Poniżej tego progu i powyżej progu bagatelnego zamawiający stosują przepisy krajowe z uproszczeniami. Zamawiający musi jednak zawsze: opublikować ogłoszenie o zamówieniu, zapewnić konkurencyjność i równe traktowanie wykonawców. Typowe usługi społeczne w PZP: usługi opiekuńcze dla seniorów i osób niepełnosprawnych, usługi gastronomiczne i cateringowe, usługi hotelarskie i konferencyjne, usługi prawne i arbitrażowe, usługi zdrowotne i ratownicze. Klauzule społeczne można łączyć z tymi zamówieniami, np. wymagając zatrudnienia osób niepełnosprawnych lub bezrobotnych."
+  },
+  {
+    "slug": "harmonogram-realizacji",
+    "term": "Harmonogram realizacji",
+    "shortDef": "Plan czasowy realizacji zamówienia określający terminy wykonania poszczególnych etapów lub całości prac.",
+    "definition": "Harmonogram realizacji to dokument planistyczny określający kolejność, terminy i zasoby niezbędne do wykonania poszczególnych etapów zamówienia publicznego. Może być wymagany przez zamawiającego jako załącznik do oferty lub do umowy.",
+    "extended": "Harmonogram realizacji jest szczególnie istotny przy robotach budowlanych, złożonych projektach IT i usługach długoterminowych. Zamawiający może wymagać harmonogramu jako kryterium oceny ofert (np. termin wykonania) lub jako dokument wstępny przed podpisaniem umowy. Harmonogram powinien zawierać: etapy realizacji z datami rozpoczęcia i zakończenia, kamienie milowe (kluczowe daty i wyniki prac), zasoby ludzkie i sprzętowe przypisane do etapów, informacje o ewentualnym podwykonawstwie. Harmonogram jest podstawą do rozliczenia postępu prac i ewentualnych kar umownych za opóźnienia. Zamawiający regularnie monitoruje realizację harmonogramu – istotne odchylenia mogą skutkować odstąpieniem od umowy lub karami umownymi."
+  },
+  {
+    "slug": "kara-umowna",
+    "term": "Kara umowna",
+    "shortDef": "Zryczałtowane odszkodowanie zastrzeżone w umowie na wypadek niewykonania lub nienależytego wykonania zobowiązania niepieniężnego.",
+    "definition": "Kara umowna w zamówieniach publicznych to z góry określona suma pieniężna, którą dłużnik (zazwyczaj wykonawca) zobowiązuje się zapłacić wierzycielowi (zamawiającemu) w razie niewykonania lub nienależytego wykonania zobowiązania. Kara umowna może być zastrzeżona wyłącznie w stosunku do zobowiązań niepieniężnych.",
+    "extended": "Kary umowne w PZP muszą być proporcjonalne do wartości i charakteru zamówienia. Przykładowe kary: za opóźnienie w realizacji – 0,1–0,5% wynagrodzenia za każdy dzień, za opóźnienie w usunięciu wad – 0,05–0,2% za każdy dzień zwłoki, za odstąpienie od umowy z winy wykonawcy – 5–20% wynagrodzenia całkowitego. Zamawiający nie może zastrzegać kar rażąco wygórowanych – są one miarkowane przez sądy. PZP wymaga, aby kary umowne zastrzeżone na rzecz zamawiającego miały swoje lustrzane odpowiedniki na rzecz wykonawcy (symetria kar). Wykonawca może żądać miarkowania kary umownej przez sąd, jeśli zobowiązanie zostało częściowo wykonane lub kara jest rażąco wygórowana."
+  },
+  {
+    "slug": "zabezpieczenie-nalezytego-wykonania",
+    "term": "Zabezpieczenie należytego wykonania (ZNWK)",
+    "shortDef": "Skrócona nazwa zabezpieczenia należytego wykonania kontraktu – instrument finansowy chroniący zamawiającego przed niewykonaniem umowy.",
+    "definition": "Zabezpieczenie należytego wykonania kontraktu (ZNWK) to potoczna i skrócona nazwa zabezpieczenia należytego wykonania umowy w zamówieniu publicznym. Wykonawca wnosi je po wyborze najkorzystniejszej oferty, przed podpisaniem umowy, jako gwarancję prawidłowej realizacji zamówienia.",
+    "extended": "ZNWK może wynosić od 2% do 5% ceny ofertowej brutto (wyjątkowo do 10%). Formy ZNWK: pieniądz (przelew), gwarancja bankowa, gwarancja ubezpieczeniowa, poręczenie bankowe, weksel z poręczeniem. Gwarancja bankowa i ubezpieczeniowa muszą być bezwarunkowe, nieodwołalne i płatne na pierwsze żądanie zamawiającego. Zasady zwrotu ZNWK: 70% wynagrodzenia zwracane w ciągu 30 dni od odbioru końcowego, 30% pozostaje przez okres rękojmi i jest zwracane po jego upływie. W przypadku roszczeń zamawiający może zrealizować gwarancję, co automatycznie uruchamia wypłatę przez bank lub ubezpieczyciela."
+  },
+  {
+    "slug": "gwarancja-bankowa",
+    "term": "Gwarancja bankowa",
+    "shortDef": "Instrument finansowy wystawiany przez bank, zabezpieczający wadium lub należyte wykonanie umowy na żądanie beneficjenta.",
+    "definition": "Gwarancja bankowa to pisemne zobowiązanie banku (gwaranta) do zapłaty określonej kwoty na rzecz zamawiającego (beneficjenta) w przypadku zaistnienia okoliczności określonych w treści gwarancji – np. odmowy podpisania umowy przez wykonawcę lub nienależytego wykonania zamówienia.",
+    "extended": "Gwarancja bankowa stosowana w zamówieniach publicznych jako forma wadium lub zabezpieczenia należytego wykonania musi być: bezwarunkowa (bank płaci bez badania zasadności roszczenia), nieodwołalna (nie może być wycofana przez zleceniodawcę), płatna na pierwsze żądanie zamawiającego. Gwarancja musi obejmować cały okres związania ofertą lub okres realizacji umowy (plus okres rękojmi dla 30% ZNWK). Koszty wystawienia gwarancji bankowej ponosi wykonawca i wynoszą zazwyczaj 0,3–1,5% kwoty gwarancji rocznie. Alternatywą dla gwarancji bankowej jest gwarancja ubezpieczeniowa (wystawiana przez zakład ubezpieczeń) – często tańsza."
+  },
+  {
+    "slug": "ubezpieczenie-oc",
+    "term": "Ubezpieczenie OC wykonawcy",
+    "shortDef": "Polisa odpowiedzialności cywilnej wykonawcy potwierdzająca jego zdolność ekonomiczną do pokrycia szkód wynikłych z realizacji zamówienia.",
+    "definition": "Ubezpieczenie OC (odpowiedzialności cywilnej) wykonawcy to polisa wymagana przez zamawiającego jako dokument potwierdzający sytuację ekonomiczną i finansową wykonawcy. Zamawiający określa minimalną sumę gwarancyjną polisy w SWZ.",
+    "extended": "Zamawiający może wymagać polisy OC z działalności gospodarczej lub OC z tytułu prowadzonej działalności zawodowej (np. dla projektantów, doradców). Minimalna suma gwarancyjna jest zazwyczaj proporcjonalna do wartości zamówienia – np. równa wartości zamówienia lub jej wielokrotność. Polisa musi być opłacona i ważna przez cały okres realizacji zamówienia. Wykonawca, który nie ma wymaganej polisy OC, nie spełnia warunku ekonomicznego i powinien albo wykupić polisę, albo powołać się na zasoby podmiotu trzeciego. Uwaga: polisa OC komunikacyjna nie jest tożsama z OC z działalności – zamawiający zazwyczaj wymaga tej drugiej."
+  },
+  {
+    "slug": "wykaz-robot",
+    "term": "Wykaz robót budowlanych",
+    "shortDef": "Dokument potwierdzający doświadczenie wykonawcy w realizacji robót budowlanych podobnych do przedmiotu zamówienia.",
+    "definition": "Wykaz robót budowlanych to dokument podmiotowy składany na wezwanie zamawiającego przez wykonawcę wybranego jako najkorzystniejszy. Potwierdza zdolność techniczną i zawodową – wykazuje zrealizowane roboty budowlane spełniające wymagania SWZ.",
+    "extended": "Wykaz robót budowlanych powinien zawierać: nazwę i opis zrealizowanego zamówienia (rodzaj robót, lokalizacja), wartość brutto, datę wykonania (rozpoczęcia i zakończenia), podmiot, na rzecz którego roboty były wykonywane. Do wykazu dołącza się dowody należytego wykonania – referencje lub inne dokumenty wystawione przez podmiot zamawiający. Zamawiający zazwyczaj wymaga wykazania min. 1–3 robót o określonej wartości i rodzaju z ostatnich 5 lat. Jeśli wykonawca ma doświadczenie z okresu poprzedniego (ponad 5 lat), może je wykazać jako dodatkowe, ale zamawiający nie jest zobowiązany je uwzględnić. Roboty wykonane w ramach konsorcjum wykazuje się w części faktycznie realizowanej przez danego wykonawcę."
+  },
+  {
+    "slug": "wykaz-uslug",
+    "term": "Wykaz usług",
+    "shortDef": "Dokument potwierdzający doświadczenie wykonawcy w realizacji usług podobnych do przedmiotu zamówienia.",
+    "definition": "Wykaz usług to odpowiednik wykazu robót budowlanych stosowany przy zamówieniach na usługi. Poświadcza zdolność techniczną i zawodową wykonawcy poprzez listę zrealizowanych usług podobnych do opisanych w SWZ.",
+    "extended": "Wykaz usług zawiera: opis usługi (przedmiot, zakres), wartość zamówienia brutto, okres realizacji, podmiot zamawiający. Dołącza się referencje (poświadczenia) lub inne dowody należytego wykonania – np. protokoły odbioru, raporty końcowe. Zamawiający najczęściej wymaga wykazania usług z ostatnich 3 lat (przy usługach) lub 5 lat (przy usługach podobnych do robót). Uwaga: przy usługach ciągłych (np. serwis IT, sprzątanie) można wykazać fragment usługi zrealizowany w wymaganym okresie, jeśli spełnia minimalne wymagania co do wartości i zakresu. Wykonawcy IT, doradczy i szkoleniowi szczególnie często muszą wykazywać spełnienie warunków przez wykazy usług z referencjami."
+  },
+  {
+    "slug": "zdolnosc-techniczna",
+    "term": "Zdolność techniczna i zawodowa",
+    "shortDef": "Warunek udziału wymagający wykazania doświadczenia, kwalifikacji personelu i posiadanego wyposażenia niezbędnego do realizacji zamówienia.",
+    "definition": "Zdolność techniczna i zawodowa to warunek udziału w postępowaniu, który wykonawca musi spełnić, aby zostać zakwalifikowanym do dalszego postępowania. Obejmuje trzy główne obszary: doświadczenie (wykonane roboty/usługi/dostawy), kwalifikacje personelu (uprawnienia, certyfikaty) oraz zasoby techniczne (sprzęt, narzędzia).",
+    "extended": "Zamawiający określa wymagania zdolności technicznej w SWZ – muszą być proporcjonalne do przedmiotu zamówienia. Typowe wymagania: co najmniej 1 zamówienie podobne o wartości min. X zł w ostatnich 5 latach (doświadczenie), kierownik budowy z uprawnieniami w branży X (personel kluczowy), posiadanie minimum Y sztuk sprzętu określonego rodzaju (zasoby). Wykonawca może wykazać zdolność techniczną: własnym doświadczeniem i zasobami, zasobami konsorcjanta, zasobami podmiotu trzeciego (poleganie na zasobach). Zamawiający nie może stawiać wymagań nadmiernie ograniczających konkurencję – np. wymagając referencji z ostatniego roku przy standardowych robotach budowlanych."
+  },
+  {
+    "slug": "zdolnosc-ekonomiczna",
+    "term": "Zdolność ekonomiczna i finansowa",
+    "shortDef": "Warunek udziału wymagający wykazania stabilności finansowej wykonawcy – przychodów, płynności lub posiadania ubezpieczenia OC.",
+    "definition": "Zdolność ekonomiczna i finansowa to warunek udziału w postępowaniu potwierdzający, że wykonawca posiada stabilną sytuację finansową pozwalającą na prawidłową realizację zamówienia. Zamawiający może wymagać dokumentów finansowych potwierdzających tę zdolność.",
+    "extended": "Typowe wymagania zdolności ekonomicznej i finansowej: minimalny roczny obrót (np. co najmniej 500 000 zł w każdym z ostatnich 3 lat), polisa OC z minimalną sumą gwarancyjną (np. 200 000 zł), wskaźniki finansowe (np. płynność bieżąca powyżej 1,2), brak przesłanek upadłości lub likwidacji. Dokumenty na potwierdzenie: sprawozdania finansowe lub ich fragmenty, zaświadczenia z banku o zdolności kredytowej, opłacone polisy OC. Zamawiający nie może wymagać obrotu wyższego niż dwukrotność wartości szacunkowej zamówienia. Wykonawcy wchodzący na rynek mogą mieć trudność ze spełnieniem warunków finansowych – alternatywą jest konsorcjum lub podmiot trzeci."
+  },
+  {
+    "slug": "formularz-ofertowy",
+    "term": "Formularz ofertowy",
+    "shortDef": "Standardowy wzór dokumentu przygotowany przez zamawiającego, który wykonawca wypełnia podając cenę i inne warunki oferty.",
+    "definition": "Formularz ofertowy to wzorzec dokumentu stanowiący załącznik do SWZ, który wykonawca wypełnia i podpisuje, składając ofertę. Zawiera kluczowe dane oferty: cenę, termin wykonania, okres gwarancji oraz oświadczenia wymagane przez zamawiającego.",
+    "extended": "Formularz ofertowy jest zwykle pierwszym i najważniejszym dokumentem oferty. Typowe elementy: dane wykonawcy (nazwa, NIP, adres), cena ofertowa brutto i netto z VAT, termin realizacji zamówienia, oferowany okres gwarancji/rękojmi, informacja o podwykonawcach (zakres i nazwy), oświadczenie o związaniu ofertą przez wskazany okres, podpis osoby uprawnionej. Błędne wypełnienie formularza – np. brak ceny, niezgodność z SWZ, brak podpisu – skutkuje odrzuceniem oferty. Wykonawca nie może samodzielnie modyfikować treści formularza – można go jedynie wypełnić. Zmiany w formularzu (przekreślenia, dopiski) wymagają parafy.'\n        ,\n        relatedTerms: ['oferta"
+  },
+  {
+    "slug": "kosztorys-ofertowy",
+    "term": "Kosztorys ofertowy",
+    "shortDef": "Szczegółowy wykaz pozycji robót lub usług z cenami jednostkowymi składający się na cenę oferty – wymagany głównie przy robotach budowlanych.",
+    "definition": "Kosztorys ofertowy to dokument zawierający szczegółowe zestawienie pozycji robót, usług lub dostaw objętych zamówieniem wraz z ich ilościami, cenami jednostkowymi i wartościami. Jest podstawą kalkulacji ceny oferty i rozliczenia wynagrodzenia kosztorysowego.",
+    "extended": "Kosztorys ofertowy jest wymagany przede wszystkim przy robotach budowlanych rozliczanych metodą kosztorysową. Zamawiający dostarcza przedmiar robót (wykaz pozycji z ilościami), a wykonawca wypełnia ceny jednostkowe i oblicza wartości. Kosztorys służy: kalkulacji oferty i jej ocenie przez zamawiającego, rozliczeniu faktycznie wykonanych robót (ilości mogą odbiegać od przedmiaru), ustaleniu cen dla robót dodatkowych (na bazie cen z kosztorysu). Przy wynagrodzeniu ryczałtowym kosztorys pełni rolę pomocniczą – nie jest podstawą rozliczeń, ale pomaga zamawiającemu ocenić realność ceny. Błędy w kosztorysie mogą być poprawiane jako omyłki rachunkowe."
+  },
+  {
+    "slug": "cena-ryczaltowa",
+    "term": "Wynagrodzenie ryczałtowe",
+    "shortDef": "Stała, z góry ustalona cena za wykonanie całości zamówienia, niezależna od rzeczywistych kosztów i ilości wykonanych prac.",
+    "definition": "Wynagrodzenie ryczałtowe to forma wynagrodzenia, w której wykonawca zobowiązuje się do wykonania zamówienia za z góry ustaloną kwotę. Kwota ta jest stała i nie podlega zmianie ze względu na zmiany ilości prac lub materiałów – chyba że umowa przewiduje waloryzację lub zamawiający zleci prace dodatkowe.",
+    "extended": "Wynagrodzenie ryczałtowe stosuje się głównie przy: robotach budowlanych według projektu wykonawczego, usługach o określonym zakresie (np. obsługa prawna), dostawach o stałej specyfikacji. Ryzyko zmiany kosztów ponosi wykonawca – jeśli rzeczywiste koszty okażą się wyższe, nie może żądać dopłaty (chyba że wynika to ze zmiany zakresu przez zamawiającego). Wyjątki od ryczałtu: zamówienia dodatkowe (wyceniane osobno), waloryzacja wynagrodzenia (klauzula waloryzacyjna), zmiana zakresu zamówienia przez zamawiającego. W razie sporu o zakres prac przy ryczałcie strony muszą wykazać, co było pierwotnie objęte ceną – kluczowa jest dokumentacja projektowa i OPZ."
+  },
+  {
+    "slug": "cena-kosztorysowa",
+    "term": "Wynagrodzenie kosztorysowe",
+    "shortDef": "Forma wynagrodzenia, w której końcowa kwota wynika z rzeczywiście wykonanych ilości robót pomnożonych przez ceny jednostkowe z kosztorysu ofertowego.",
+    "definition": "Wynagrodzenie kosztorysowe to forma wynagrodzenia, w której ostateczna kwota wypłacana wykonawcy jest wypadkową rzeczywiście wykonanych ilości robót (mierzonych obmiarami) i cen jednostkowych z zatwierdzonego kosztorysu ofertowego. Ilości mogą odbiegać od pierwotnego przedmiaru.",
+    "extended": "Wynagrodzenie kosztorysowe stosuje się przy robotach, gdzie trudno z góry precyzyjnie określić ilości – np. roboty ziemne, remonty w obiektach o nieznanym stanie technicznym. Mechanizm rozliczenia: wykonawca sporządza kosztorys powykonawczy (obmiar faktycznych ilości × ceny jednostkowe z oferty), zamawiający sprawdza i akceptuje obmiary. Ceny jednostkowe są stałe – wynika to z oferty. Ilości robót mogą się zmieniać w górę lub w dół. Zagrożenie dla wykonawcy: jeśli ilości okażą się mniejsze niż w przedmiarze, wynagrodzenie będzie niższe. Zagrożenie dla zamawiającego: jeśli ilości okażą się większe, budżet może zostać przekroczony."
+  },
+  {
+    "slug": "zmiana-umowy",
+    "term": "Zmiana umowy",
+    "shortDef": "Modyfikacja zawartej umowy o zamówienie publiczne dopuszczalna wyłącznie w przypadkach przewidzianych w PZP lub w umowie.",
+    "definition": "Zmiana umowy w zamówieniu publicznym to modyfikacja zawartych warunków kontraktu – zakresu, wynagrodzenia, terminów lub innych postanowień. Zmiany są dopuszczalne wyłącznie w ściśle określonych przypadkach, by nie naruszać zasady równego traktowania wykonawców.",
+    "extended": "Przesłanki dopuszczalnej zmiany umowy (art. 455 PZP): zamawiający przewidział zmiany w ogłoszeniu lub SWZ (klauzule modyfikacyjne), zamówienia dodatkowe nieprzewidziane w pierwotnej umowie (do 50% wartości), zmiany niezależne od zamawiającego, których nie można było przewidzieć, zmiany wykonawcy w wyjątkowych okolicznościach (sukcesja prawna, podwykonawstwo kluczowych zadań), wartość zmiany do 10% (usługi/dostawy) lub 15% (roboty) wartości umowy. Zmiany umowy muszą być dokonane w formie pisemnego aneksu. Niedopuszczalne zmiany istotne: zmiana charakteru lub zakresu zamówienia, zmiana warunków zamówienia w sposób korzystniejszy dla nowego wykonawcy, zmiana równowagi ekonomicznej kontraktu na korzyść wykonawcy."
+  },
+  {
+    "slug": "odstapienie-od-umowy",
+    "term": "Odstąpienie od umowy",
+    "shortDef": "Jednostronne rozwiązanie umowy o zamówienie publiczne przez zamawiającego lub wykonawcę z powodu rażącego naruszenia jej postanowień.",
+    "definition": "Odstąpienie od umowy to jednostronne oświadczenie woli skutkujące rozwiązaniem zawartej umowy o zamówienie publiczne. PZP przewiduje przypadki, w których zamawiający ma obowiązek lub prawo odstąpić od umowy, a wykonawca – swoje prawa do odstąpienia.",
+    "extended": "Zamawiający może odstąpić od umowy gdy: dokonano zmiany umowy z naruszeniem PZP (obowiązkowe), wykonawca nie realizuje zamówienia zgodnie z umową lub opóźnia się w sposób zagrażający terminowej realizacji (fakultatywne), zachodzi istotna zmiana okoliczności powodująca, że wykonanie umowy nie leży w interesie publicznym (fakultatywne – odszkodowanie dla wykonawcy). Wykonawca może odstąpić od umowy, gdy zamawiający nie realizuje swoich obowiązków (np. nie płaci). Odstąpienie od umowy skutkuje obowiązkiem rozliczenia dotychczas wykonanych prac. Zamawiający może żądać kary umownej za odstąpienie z winy wykonawcy i realizacji zabezpieczenia należytego wykonania."
+  },
+  {
+    "slug": "platnosci-zaliczkowe",
+    "term": "Płatności zaliczkowe",
+    "shortDef": "Wypłata części wynagrodzenia wykonawcy przed wykonaniem zamówienia – stosowana w celu finansowania kosztów realizacji.",
+    "definition": "Płatności zaliczkowe to wypłata przez zamawiającego części wynagrodzenia wykonawcy przed wykonaniem zamówienia lub jego określonej części. Zamawiający może przewidzieć zaliczkę w SWZ lub umowie, gdy charakter zamówienia tego wymaga.",
+    "extended": "Zaliczki są szczególnie częste przy dużych projektach budowlanych, dofinansowanych z funduszy UE lub wymagających znacznych nakładów z góry (zakup materiałów, sprzętu). Zamawiający może wymagać zabezpieczenia zwrotu zaliczki – w formie gwarancji bankowej lub ubezpieczeniowej, poręczenia lub hipoteki. Wysokość zaliczki jest ustalana w umowie – zazwyczaj do 10–30% wartości zamówienia. Zaliczka musi zostać rozliczona przez wykonawcę – wykazana w fakturach lub rozliczona przy odbiorze. Przy zamówieniach dofinansowanych z UE zasady udzielania zaliczek reguluje umowa o dofinansowanie i wynikające z niej wytyczne."
+  },
+  {
+    "slug": "faktura-vat",
+    "term": "Faktura VAT w zamówieniach",
+    "shortDef": "Dokument potwierdzający wykonanie zamówienia i stanowiący podstawę do wypłaty wynagrodzenia wykonawcy.",
+    "definition": "Faktura VAT jest podstawowym dokumentem rozliczeniowym w zamówieniach publicznych. Wykonawca wystawia fakturę po wykonaniu zamówienia lub jego etapu (zgodnie z harmonogramem płatności w umowie), a zamawiający ma obowiązek jej terminowej zapłaty.",
+    "extended": "PZP reguluje minimalne terminy płatności dla zamówień publicznych: zamawiający musi zapłacić fakturę w terminie nie dłuższym niż 30 dni od daty doręczenia. Przy podwykonawcach termin płatności dla podwykonawcy nie może być dłuższy niż termin płatności dla generalnego wykonawcy. Faktury mogą być powiązane z: kamieniami milowymi (etapami projektu), comiesięcznym rozliczeniem postępu robót, odbiorem końcowym zamówienia. Zamawiający może wymagać faktur ustrukturyzowanych (e-faktur) – obowiązek ten dotyczy zamówień powyżej określonej wartości. Uwaga: faktura przed odbiorem może być niezgodna z warunkami umowy – sprawdź, czy umowa nie przewiduje konieczności odbioru przed fakturowaniem."
+  },
+  {
+    "slug": "rodo-w-zamowieniach",
+    "term": "RODO w zamówieniach publicznych",
+    "shortDef": "Obowiązki przetwarzania danych osobowych w postępowaniach o zamówienie publiczne wynikające z rozporządzenia RODO.",
+    "definition": "RODO (Rozporządzenie o Ochronie Danych Osobowych, GDPR) w zamówieniach publicznych reguluje zasady przetwarzania danych osobowych wykonawców, osób wyznaczonych do realizacji zamówienia i innych podmiotów uczestniczących w postępowaniu.",
+    "extended": "Zamawiający jako administrator danych musi: dopełnić obowiązku informacyjnego wobec wykonawców (klauzula informacyjna zazwyczaj zamieszczona w SWZ), przetwarzać dane wyłącznie w celu przeprowadzenia postępowania i realizacji umowy, zapewnić odpowiednie środki ochrony danych, nie przechowywać danych dłużej niż to konieczne (protokół postępowania – 4 lata, umowy – 5 lat lub dłużej przy projektach UE). Wykonawca przekazując dane osobowe (np. CV i kwalifikacje personelu) powinien upewnić się, że osoby te zostały poinformowane. W SWZ zamawiający umieszcza klauzulę informacyjną dotyczącą przetwarzania danych w postępowaniu. Dane poufne zawarte w ofercie mogą być chronione jako tajemnica przedsiębiorstwa."
+  },
+  {
+    "slug": "zasada-rownego-traktowania",
+    "term": "Zasada równego traktowania",
+    "shortDef": "Fundamentalna zasada PZP nakazująca zamawiającemu jednakowe traktowanie wszystkich wykonawców bez dyskryminacji.",
+    "definition": "Zasada równego traktowania wykonawców to jedna z fundamentalnych zasad zamówień publicznych (art. 16 PZP), nakazująca zamawiającemu postępowanie w sposób zapewniający wszystkim wykonawcom jednakowe szanse na uzyskanie zamówienia, bez faworyzowania lub dyskryminowania.",
+    "extended": "Zasada równego traktowania wyraża się w: jednakowych wymaganiach informacyjnych wobec wszystkich wykonawców, niedyskryminującym opisie przedmiotu zamówienia (bez wskazywania konkretnych marek), proporcjonalnych i obiektywnych kryteriach kwalifikacji, jednolitej ocenie ofert według tych samych kryteriów, jawności postępowania i dostępności dokumentów. Naruszenia zasady równego traktowania to powód do odwołania do KIO – np. gdy zamawiający stawia wymagania pasujące tylko do jednego wykonawcy, interpretuje SWZ selektywnie lub prowadzi nieformalne negocjacje z wybranym podmiotem. Zasada obowiązuje też zamawiających przy udzielaniu zamówień sektorowych i koncesji."
+  },
+  {
+    "slug": "klauzule-spoleczne",
+    "term": "Klauzule społeczne",
+    "shortDef": "Wymagania w zamówieniu dotyczące zatrudnienia osób z grup defaworyzowanych lub spełnienia określonych standardów społecznych.",
+    "definition": "Klauzule społeczne to postanowienia w dokumentach zamówienia zobowiązujące wykonawcę do uwzględnienia aspektów społecznych podczas realizacji zamówienia – np. zatrudnienia osób bezrobotnych, niepełnosprawnych, powracających z więzienia lub w oparciu o umowę o pracę.",
+    "extended": "PZP umożliwia zamawiającym stosowanie klauzul społecznych jako: wymagania zatrudnienia na umowę o pracę (art. 95 PZP – obligatoryjne przy zamówieniach na roboty i usługi, gdzie praca ma charakter stosunku pracy), kryterium oceny ofert (np. wyższe punkty za zatrudnienie niepełnosprawnych), warunki realizacji zamówienia (np. wymaganie, by określony procent pracowników stanowiły osoby z grup marginalizowanych), zamówienia zastrzeżone dla zakładów pracy chronionej lub spółdzielni socjalnych. Kontrola klauzul: zamawiający może żądać zaświadczeń ZUS, deklaracji ZUA, kopii umów o pracę. Naruszenie klauzul społecznych może skutkować karami umownymi."
+  },
+  {
+    "slug": "klauzule-ekologiczne",
+    "term": "Klauzule ekologiczne (środowiskowe)",
+    "shortDef": "Wymagania w zamówieniu dotyczące ochrony środowiska, niskiej emisji, efektywności energetycznej lub stosowania ekologicznych materiałów.",
+    "definition": "Klauzule ekologiczne (środowiskowe, zielone zamówienia – ang. Green Public Procurement, GPP) to wymagania zamawiającego dotyczące aspektów środowiskowych zamówienia. Mogą być stosowane jako: opis przedmiotu zamówienia, kryterium oceny ofert, wymagania dotyczące realizacji umowy.",
+    "extended": "Przykłady klauzul ekologicznych w zamówieniach publicznych: wymaganie pojazdów elektrycznych lub hybrydowych w przetargach transportowych, preferowanie produktów z certyfikatami ekologicznymi (Ecolabel, FSC), wymagania dotyczące minimalnej efektywności energetycznej sprzętu (np. klasa energetyczna A), zakaz stosowania jednorazowych plastików, wymaganie stosowania materiałów z recyclingu, niższe emisje CO2 jako kryterium oceny ofert. Komisja Europejska wydała kryteria GPP dla wielu kategorii produktów – zamawiający mogą z nich korzystać. GPP jest szczególnie promowane przy zamówieniach instytucji centralnych."
+  },
+  {
+    "slug": "innowacyjne-zamowienia",
+    "term": "Zamówienia innowacyjne",
+    "shortDef": "Zamówienia publiczne ukierunkowane na zakup innowacyjnych rozwiązań lub wspierające ich opracowanie przez sektor publiczny.",
+    "definition": "Zamówienia innowacyjne to postępowania o zamówienie publiczne, w których zamawiający celowo nabywa innowacyjne produkty, usługi lub roboty budowlane – albo wspiera ich opracowanie. Sektor publiczny jako duży nabywca może stymulować innowacje poprzez mądre zamówienia.",
+    "extended": "Instrumenty zamówień innowacyjnych w PZP: partnerstwo innowacyjne (wspólne opracowanie i zakup innowacji), dialog konkurencyjny (poszukiwanie innowacyjnych rozwiązań), zamówienia przedkomercyjne (PCP – Pre-Commercial Procurement, finansowanie B+R przed komercjalizacją), regularne przetargi z innowacyjnymi wymaganiami (np. AI w systemach IT, nowe technologie budowlane). UE wspiera innowacyjne zamówienia poprzez programy Horyzont Europa i inicjatywy krajowe. Bariery: konserwatywne podejście zamawiających, obawy o ryzyko, trudności z opisem innowacyjnych przedmiotów zamówienia. Polska ma Centrum Analiz i Zamówień Publicznych wspierające innowacyjne zamówienia."
+  },
+  {
+    "slug": "elektroniczna-platforma",
+    "term": "Elektroniczna platforma zakupowa",
+    "shortDef": "System informatyczny zamawiającego lub dostawcy zewnętrznego, za pośrednictwem którego prowadzone są postępowania o zamówienie publiczne.",
+    "definition": "Elektroniczna platforma zakupowa to system informatyczny umożliwiający elektroniczne przeprowadzenie postępowania o zamówienie publiczne – od publikacji ogłoszenia i SWZ, przez składanie ofert, po komunikację z wykonawcami i wybór najkorzystniejszej oferty.",
+    "extended": "W Polsce zamawiający mogą korzystać z: oficjalnej platformy e-Zamówienia (ezamowienia.gov.pl) prowadzonej przez UZP, komercyjnych platform zakupowych (np. Marketplanet, Logintrade, OpenNexus, Asystent Postępowania), własnych systemów wdrożonych przez dużych zamawiających (np. GDDKiA, PKP PLK). Platformy komercyjne muszą spełniać wymogi interoperacyjności z systemem e-Zamówienia (przekazywanie ogłoszeń do BZP). Każda platforma ma własny interfejs – przed złożeniem oferty warto zalogować się i sprawdzić sposób składania dokumentów. Przy przetargach na platformach komercyjnych konto zakłada się zazwyczaj bezpłatnie, ale niektóre platformy oferują płatne moduły premium dla wykonawców."
+  },
+  {
+    "slug": "miniportal",
+    "term": "miniPortal",
+    "shortDef": "Poprzedni system do elektronicznego składania ofert w zamówieniach publicznych, zastąpiony przez platformę e-Zamówienia od 2022 roku.",
+    "definition": "MiniPortal (miniPortal.uzp.gov.pl) to narzędzie elektroniczne prowadzone przez UZP, które umożliwiało zamawiającym przeprowadzanie postępowań o zamówienie publiczne drogą elektroniczną. Było obowiązkowe w okresie przejściowym elektronizacji zamówień (2018–2021) i działało równolegle z nową platformą e-Zamówienia do końca 2022 r.",
+    "extended": "MiniPortal był systemem pośredniczącym: zamawiający publikował ogłoszenie w BZP lub TED, a do składania ofert używał miniPortalu wraz z ePUAP. Wykonawca składał zaszyfrowaną ofertę przez miniPortal, podpisując dokumenty kwalifikowanym podpisem elektronicznym. Od 18 października 2022 r. platforma e-Zamówienia zastąpiła miniPortal jako główne narzędzie do składania ofert. MiniPortal jest historycznie ważny, bo wiele starszych postępowań w archiwach zamawiających było prowadzonych właśnie przez ten system. Dokumentacja dotycząca ofert złożonych przez miniPortal jest nadal przechowywana i dostępna dla celów archiwizacyjnych."
+  },
+  {
+    "slug": "epuap",
+    "term": "ePUAP w zamówieniach",
+    "shortDef": "Elektroniczna Platforma Usług Administracji Publicznej – używana w zamówieniach do uwierzytelniania i podpisu zaufanego przy postępowaniach krajowych.",
+    "definition": "ePUAP (Elektroniczna Platforma Usług Administracji Publicznej) to platforma rządowa umożliwiająca obywatelom i firmom kontakt z administracją publiczną drogą elektroniczną. W zamówieniach publicznych ePUAP służy do uwierzytelniania tożsamości i składania podpisu zaufanego.",
+    "extended": "W zamówieniach publicznych ePUAP był kluczowym elementem systemu miniPortalu – wykonawcy składali oferty podpisując je profilem zaufanym lub kwalifikowanym podpisem elektronicznym. Obecnie na platformie e-Zamówienia rejestracja i logowanie odbywa się przez login.gov.pl (następca ePUAP). Podpis zaufany (dawniej profil zaufany) jest wystarczający przy zamówieniach krajowych (tryb podstawowy). Przy zamówieniach powyżej progów UE wymagany jest kwalifikowany podpis elektroniczny (wystawiany przez certyfikowane centra certyfikacji). Wykonawcy zagraniczni mogą korzystać z krajowych podpisów kwalifikowanych zaakceptowanych w ramach rozporządzenia eIDAS."
+  },
+  {
+    "slug": "zamowienie-wspolne",
+    "term": "Zamówienie wspólne",
+    "shortDef": "Postępowanie prowadzone przez dwóch lub więcej zamawiających łącznie w celu udzielenia jednego zamówienia na wspólne potrzeby.",
+    "definition": "Zamówienie wspólne to postępowanie o udzielenie zamówienia prowadzone przez co najmniej dwóch zamawiających, którzy postanowili połączyć swoje potrzeby i wspólnie przeprowadzić jeden przetarg. Pozwala na osiągnięcie efektu skali i lepszych warunków cenowych.",
+    "extended": "Zamówienia wspólne mogą być realizowane przez: wyznaczenie jednego zamawiającego prowadzącego postępowanie w imieniu pozostałych (pełnomocnik), powołanie specjalnej jednostki zakupowej lub centralnego zamawiającego, zawarcie umowy konsorcjum zamawiających. Korzyści: niższe ceny dzięki większemu wolumenowi, oszczędność zasobów administracyjnych, standaryzacja produktów i usług. Wyzwania: konieczność uzgodnienia potrzeb i wymagań, podział praw i obowiązków po zawarciu umowy, rozdział wynagrodzenia między uczestników. Wartość zamówienia wspólnego to suma wartości potrzeb wszystkich uczestniczących zamawiających."
+  },
+  {
+    "slug": "centralne-zamowienia",
+    "term": "Centralizacja zamówień",
+    "shortDef": "Koncentrowanie zakupów publicznych przez centralnego zamawiającego lub jednostkę zakupową działającą na rzecz wielu podmiotów.",
+    "definition": "Centralizacja zamówień publicznych polega na skupieniu procesu zakupowego w wyspecjalizowanej jednostce (centralny zamawiający) działającej na rzecz wielu zamawiających. Pozwala osiągnąć efekt skali, standaryzację i oszczędności.",
+    "extended": "W Polsce centralnym zamawiającym na szczeblu rządowym jest Centrum Obsługi Administracji Rządowej (COAR), które prowadzi postępowania na rzecz ministerstw i agencji rządowych – np. dostawy sprzętu IT, licencji oprogramowania, samochodów, usług telekomunikacyjnych. Na poziomie lokalnym gminy mogą tworzyć wspólne jednostki zakupowe lub korzystać z platform centralnych. Korzyści centralizacji: niższe ceny dzięki większemu wolumenowi, niższe koszty administracyjne, profesjonalizacja zamówień. Ryzyka: ograniczona elastyczność, trudność dostosowania do potrzeb lokalnych, możliwość wykluczenia małych i regionalnych dostawców. Europejskie centrale zakupowe (CPB – Central Purchasing Bodies) działają w większości krajów UE."
+  },
+  {
+    "slug": "pzu",
+    "term": "PZU (podmiot zamawiający ubezpieczenie)",
+    "shortDef": "Podmiot publiczny organizujący przetarg na usługi ubezpieczeniowe, objęty uproszczonymi przepisami PZP dla usług finansowych.",
+    "definition": "W kontekście zamówień publicznych PZU to skrót używany potocznie na określenie postępowań dotyczących usług ubezpieczeniowych prowadzonych przez podmioty publiczne. Usługi ubezpieczeniowe należą do kategorii usług społecznych i szczególnych, objętych uproszczonym reżimem PZP.",
+    "extended": "Zamówienia na usługi ubezpieczeniowe (kody CPV 66500000 i powiązane) są prowadzone przez samorządy, szpitale, uczelnie i inne jednostki publiczne. Obejmują ubezpieczenia majątkowe, komunikacyjne, OC, zdrowotne i na życie. Uproszczony reżim PZP dla tych usług oznacza: mniej rygorystyczne procedury formalne, elastyczność w doborze trybu, ale obowiązek ogłoszenia i zapewnienia konkurencji. Brokerzy ubezpieczeniowi często pełnią rolę doradców zamawiającego przy specyfikowaniu wymogów polisy. Dla wykonawców (firm ubezpieczeniowych i brokerów) to specjalistyczny segment wymagający znajomości zarówno PZP, jak i regulacji ubezpieczeniowych (Komisja Nadzoru Finansowego, prawo ubezpieczeniowe)."
+  },
+  {
+    "slug": "zamowienia-sektorowe",
+    "term": "Zamówienia sektorowe",
+    "shortDef": "Zamówienia udzielane przez podmioty działające w sektorach wodnym, energetycznym, transportowym i pocztowym, objęte odrębnymi przepisami PZP.",
+    "definition": "Zamówienia sektorowe to zamówienia publiczne udzielane przez zamawiających sektorowych – podmioty prowadzące działalność w sektorach: wodociągowo-kanalizacyjnym, energetycznym (gaz, ciepło, energia elektryczna), transportowym (koleje, tramwaje, autobusy, metro) oraz pocztowym. Reguluje je Dział V ustawy PZP (art. 362–392) oraz Dyrektywa 2014/25/UE.",
+    "extended": "Zamówienia sektorowe charakteryzują się wyższymi progami stosowania PZP (431 000 EUR dla dostaw i usług, 5 538 000 EUR dla robót budowlanych) oraz większą elastycznością procedur. Zamawiający sektorowi mogą stosować systemy kwalifikowania wykonawców (pre-qualification systems) oraz prowadzić negocjacje bez uprzedniego ogłoszenia w szerszym zakresie niż zamawiający klasyczni. Kluczowa różnica: jeśli działalność jest bezpośrednio poddana konkurencji na rynku (decyzja Komisji Europejskiej), zamówienia mogą być wyłączone spod PZP. Przykłady zamawiających sektorowych w Polsce: PGE, Tauron, PKP, MPK, MPWiK, Poczta Polska."
+  },
+  {
+    "slug": "konkurs",
+    "term": "Konkurs",
+    "shortDef": "Przyrzeczenie publiczne, w którym zamawiający wybiera najlepszą pracę konkursową, szczególnie w architekturze i urbanistyce.",
+    "definition": "Konkurs w zamówieniach publicznych (art. 325–358 PZP) to szczególna procedura, w której zamawiający przez publiczne ogłoszenie przyrzeka nagrodę za wykonanie i przedstawienie pracy konkursowej. Stosowany głównie w dziedzinach twórczych: architekturze, urbanistyce, inżynierii, przetwarzaniu danych i projektowaniu.",
+    "extended": "Konkurs może być jednoetapowy lub dwuetapowy (z preselekcją). Zamawiający powołuje sąd konkursowy (min. 3 osoby, w tym co najmniej 1/3 z kwalifikacjami w dziedzinie konkursu), który ocenia prace anonimowo. Nagroda może mieć formę pieniężną lub zaproszenia do negocjacji w celu udzielenia zamówienia na realizację pracy. Konkurs może być ograniczony (z kwalifikacją uczestników) lub nieograniczony. Dla progów unijnych obowiązuje publikacja w TED. Terminy: min. 30 dni na złożenie wniosków o udział, min. 45 dni na złożenie prac (przetarg unijny)."
+  },
+  {
+    "slug": "negocjacje-bez-ogloszenia",
+    "term": "Negocjacje bez ogłoszenia",
+    "shortDef": "Tryb zamówienia, w którym zamawiający negocjuje z wybranymi wykonawcami bez uprzedniej publikacji ogłoszenia.",
+    "definition": "Negocjacje bez ogłoszenia (art. 209–213 PZP) to tryb udzielenia zamówienia, w którym zamawiający negocjuje warunki umowy z wybranymi przez siebie wykonawcami, a następnie zaprasza ich do składania ofert. Tryb stosowany wyłącznie w przypadkach ściśle określonych w ustawie.",
+    "extended": "Przesłanki zastosowania: (1) w postępowaniu prowadzonym uprzednio w trybie przetargu nieograniczonego lub ograniczonego nie wpłynął żaden wniosek lub oferta, (2) ze względu na pilną potrzebę udzielenia zamówienia niewynikającą z przyczyn leżących po stronie zamawiającego, (3) dostawy na giełdzie towarowej. Zamawiający zaprasza do negocjacji co najmniej 3 wykonawców (lub 5 powyżej progów UE). Po negocjacjach zaprasza do złożenia ofert. Tryb wymaga uzasadnienia w protokole postępowania i jest kontrolowany przez UZP/KIO."
+  },
+  {
+    "slug": "raport-z-postepowania",
+    "term": "Raport z postępowania",
+    "shortDef": "Dokument sporządzany przez zamawiającego po zakończeniu postępowania, analizujący jego przebieg i wyniki.",
+    "definition": "Raport z postępowania (art. 446 PZP) to dokument sporządzany przez zamawiającego po udzieleniu zamówienia, zawarciu umowy ramowej lub unieważnieniu postępowania. Zawiera ocenę, czy zamówienie zostało udzielone w sposób efektywny, z uwzględnieniem celowości wydatku i zasad konkurencji.",
+    "extended": "Raport jest obowiązkowy dla zamówień powyżej progów UE oraz gdy wystąpiły określone okoliczności (np. udzielono zamówienia z wolnej ręki). Zawiera m.in.: wskazanie środków, których celem było zapobieganie konfliktom interesów, porównanie złożonych ofert z szacunkową wartością zamówienia, analizę, czy nie doszło do rażąco niskiej ceny, wskazanie wykonawców wykluczonych i przyczyn wykluczenia. Raport jest jawny – dostępny na wniosek po zakończeniu postępowania. Dla wykonawców to cenne źródło informacji o konkurencji i decyzjach zamawiającego."
+  },
+  {
+    "slug": "analiza-potrzeb-i-wymagan",
+    "term": "Analiza potrzeb i wymagań",
+    "shortDef": "Obowiązkowy dokument sporządzany przed wszczęciem postępowania powyżej progów UE, opisujący potrzeby zamawiającego i sposób ich zaspokojenia.",
+    "definition": "Analiza potrzeb i wymagań (art. 83 PZP) to dokument, który zamawiający sporządza przed wszczęciem postępowania o wartości równej lub przekraczającej progi unijne. Określa potrzeby zamawiającego, sposób ich zaspokojenia, oraz analizuje rynek pod kątem dostępnych rozwiązań.",
+    "extended": "Analiza musi zawierać: (1) orientacyjną wartość zamówienia, (2) możliwość podziału na części, (3) przewidywany tryb udzielenia zamówienia z uzasadnieniem, (4) możliwość uwzględnienia aspektów społecznych, środowiskowych i innowacyjnych, (5) ryzyka związane z postępowaniem. Dokument nie jest jawny (nie udostępnia się wykonawcom), ale stanowi załącznik do protokołu. Celem jest racjonalizacja wydatków i zapobieganie problemom proceduralnym. W praktyce: dobrze sporządzona analiza zmniejsza ryzyko odwołań do KIO i problemów na etapie realizacji."
+  },
+  {
+    "slug": "komisja-przetargowa",
+    "term": "Komisja przetargowa",
+    "shortDef": "Zespół powoływany przez zamawiającego do przeprowadzenia postępowania o zamówienie publiczne.",
+    "definition": "Komisja przetargowa (art. 53–56 PZP) to zespół pomocniczy powoływany przez kierownika zamawiającego do oceny ofert i wniosków o dopuszczenie do udziału w postępowaniu. Składa się z co najmniej 3 osób, które posiadają wiedzę i doświadczenie związane z przedmiotem zamówienia.",
+    "extended": "Komisja ma charakter doradczy – rekomenduje kierownikowi zamawiającego wybór oferty najkorzystniejszej, ale decyzja formalna należy do kierownika. Członkowie komisji składają oświadczenia o braku konfliktu interesów (art. 56 PZP). Powołanie komisji jest obowiązkowe dla zamówień powyżej progów UE. Poniżej progów zamawiający może, ale nie musi jej powoływać. W praktyce: komisja liczy 3–7 osób, w tym przewodniczący i sekretarz. Często w skład wchodzą: specjaliści merytoryczni, prawnik, pracownik ds. zamówień."
+  },
+  {
+    "slug": "podpis-elektroniczny",
+    "term": "Podpis elektroniczny",
+    "shortDef": "Kwalifikowany podpis elektroniczny, podpis zaufany lub podpis osobisty wymagany do składania ofert i dokumentów w zamówieniach publicznych.",
+    "definition": "W zamówieniach publicznych podpis elektroniczny odnosi się do trzech rodzajów podpisów: kwalifikowanego podpisu elektronicznego (wymaganego powyżej progów UE), podpisu zaufanego (profil zaufany) oraz podpisu osobistego (e-dowód). Od 2021 r. wszystkie postępowania o zamówienia publiczne prowadzone są elektronicznie, co wymaga podpisywania dokumentów jednym z tych podpisów.",
+    "extended": "Kwalifikowany podpis elektroniczny (KPE) – wydawany przez certyfikowane centra (Certum, Eurocert, SZAFIR, CenCert) na okres 1–2 lat, wymaga karty kryptograficznej lub tokenu USB. Koszt: 200–400 zł/rok. Wymagany dla zamówień powyżej progów UE. Podpis zaufany – bezpłatny, przez profil zaufany (ePUAP/login.gov.pl), dopuszczalny poniżej progów UE. Podpis osobisty – warstwa elektroniczna e-dowodu osobistego, dopuszczalny poniżej progów UE. Uwaga: KPE jest uznawany we wszystkich krajach UE (eIDAS), podpis zaufany i osobisty – tylko w Polsce."
+  },
+  {
+    "slug": "prawo-opcji",
+    "term": "Prawo opcji",
+    "shortDef": "Klauzula umowna pozwalająca zamawiającemu na rozszerzenie zamówienia o dodatkowy zakres bez nowego postępowania.",
+    "definition": "Prawo opcji (art. 441 PZP) to instytucja pozwalająca zamawiającemu na zastrzeżenie w umowie możliwości rozszerzenia zamówienia o dodatkowe dostawy, usługi lub roboty budowlane. Zamawiający określa zakres opcji już w SWZ i ogłoszeniu o zamówieniu.",
+    "extended": "Opcja musi być jednoznacznie opisana w dokumentach zamówienia: rodzaj i maksymalny zakres, warunki uruchomienia, termin skorzystania. Zamówienie dzieli się na część gwarantowaną (pewną) i opcjonalną (zależną od decyzji zamawiającego). Wykonawca składa ofertę na całość (z opcją), ale wynagrodzenie za opcję otrzymuje tylko po jej uruchomieniu. Różnica vs zamówienie uzupełniające: opcja jest przewidziana z góry w pierwotnym postępowaniu, zamówienie uzupełniające wymaga oddzielnej procedury. KIO wielokrotnie podkreślało, że opcja nie może modyfikować istotnych warunków zamówienia – musi dotyczyć tego samego rodzaju świadczeń."
+  },
+  {
+    "slug": "warianty-ofertowe",
+    "term": "Warianty ofertowe",
+    "shortDef": "Możliwość złożenia przez wykonawcę oferty proponującej alternatywne rozwiązanie techniczne lub organizacyjne.",
+    "definition": "Warianty ofertowe (art. 92 PZP) to oferty proponujące rozwiązania odmienne od opisanych w SWZ, ale spełniające wymagania zamawiającego. Zamawiający musi wyraźnie dopuścić składanie wariantów w ogłoszeniu o zamówieniu i SWZ, określając minimalne wymagania, jakie muszą spełniać.",
+    "extended": "Warianty ofertowe są rzadko stosowane w polskich zamówieniach – szacuje się, że dopuszcza je mniej niż 5% postępowań. Zamawiający musi określić: minimalne wymagania dla wariantów, kryteria oceny (wspólne dla oferty podstawowej i wariantu), sposób porównania wariantów z ofertami podstawowymi. Wykonawca składający wariant musi też złożyć ofertę podstawową. Warianty są szczególnie użyteczne w zamówieniach na innowacyjne rozwiązania (np. IT, energetyka), gdzie wykonawca może zaproponować lepszą technologię niż opisana w SWZ."
+  },
+  {
+    "slug": "wstepne-konsultacje-rynkowe",
+    "term": "Wstępne konsultacje rynkowe",
+    "shortDef": "Dialog zamawiającego z rynkiem przed wszczęciem postępowania, służący poznaniu dostępnych rozwiązań i oszacowaniu kosztów.",
+    "definition": "Wstępne konsultacje rynkowe (art. 84 PZP) to procedura, w której zamawiający przed wszczęciem postępowania zasięga opinii ekspertów, wykonawców lub organizacji branżowych w celu przygotowania postępowania i poinformowania rynku o planach zakupowych.",
+    "extended": "Konsultacje mogą dotyczyć: określenia dostępnych rozwiązań technicznych, oszacowania wartości zamówienia, poznania standardów rynkowych. Zamawiający informuje o zamiarze przeprowadzenia konsultacji na stronie internetowej (BIP). Wyniki konsultacji nie wiążą zamawiającego. Wykonawcy uczestniczący w konsultacjach mogą później składać oferty – PZP nie wyklucza ich z postępowania, ale zamawiający musi zapewnić, że udział w konsultacjach nie naruszył konkurencji (art. 85). W praktyce: konsultacje trwają 2–8 tygodni i obejmują spotkania, ankiety, prezentacje rozwiązań."
+  },
+  {
+    "slug": "zamowienie-uzupelniajace",
+    "term": "Zamówienie uzupełniające (podobne)",
+    "shortDef": "Zamówienie udzielane dotychczasowemu wykonawcy na powtórzenie podobnych usług lub robót, przewidziane w pierwotnym postępowaniu.",
+    "definition": "Zamówienie uzupełniające (art. 214 ust. 1 pkt 7 PZP, dawniej „zamówienie podobne\") to zamówienie polegające na powtórzeniu podobnych usług lub robót budowlanych, udzielane w trybie z wolnej ręki dotychczasowemu wykonawcy. Musi być przewidziane w ogłoszeniu o zamówieniu podstawowym i zgodne z jego przedmiotem.",
+    "extended": "Warunki: (1) zamówienie było przewidziane w ogłoszeniu o zamówieniu podstawowym, (2) wartość zamówienia uzupełniającego została uwzględniona przy szacowaniu wartości zamówienia podstawowego, (3) nie przekracza 50% wartości zamówienia podstawowego, (4) polega na powtórzeniu podobnych usług lub robót (nie dostaw!). Udzielane w trybie zamówienia z wolnej ręki – bez konkurencji. Zamawiający negocjuje warunki z dotychczasowym wykonawcą. Różnica vs prawo opcji: zamówienie uzupełniające wymaga oddzielnej procedury (z wolnej ręki), opcja jest realizowana w ramach istniejącej umowy."
+  },
+  {
+    "slug": "zamowienia-in-house",
+    "term": "Zamówienia in-house",
+    "shortDef": "Zamówienia udzielane przez zamawiającego podmiotowi, nad którym sprawuje kontrolę analogiczną do kontroli nad własnymi jednostkami.",
+    "definition": "Zamówienia in-house (art. 214 ust. 1 pkt 11–14 PZP) to zamówienia udzielane w trybie z wolnej ręki podmiotom powiązanym z zamawiającym – najczęściej spółkom komunalnym, nad którymi zamawiający sprawuje kontrolę odpowiadającą kontroli nad własnymi jednostkami organizacyjnymi.",
+    "extended": "Warunki „klasycznego\" in-house (pkt 11): zamawiający sprawuje nad wykonawcą kontrolę odpowiadającą kontroli nad własnymi jednostkami, ponad 90% działalności wykonawcy dotyczy zadań powierzonych przez zamawiającego, w wykonawcy nie ma bezpośredniego udziału kapitału prywatnego. Przykład: gmina zleca wywóz odpadów własnej spółce komunalnej. In-house jest kontrowersyjny – ogranicza konkurencję rynkową. KIO i sądy badają, czy warunki kontroli są spełnione. Zamawiający musi opublikować ogłoszenie o zamiarze zawarcia umowy (15 dni na odwołanie)."
+  },
+  {
+    "slug": "zamowienia-obronne",
+    "term": "Zamówienia obronne",
+    "shortDef": "Zamówienia dotyczące obronności i bezpieczeństwa państwa, objęte odrębnymi przepisami PZP i wyłączeniami.",
+    "definition": "Zamówienia w dziedzinach obronności i bezpieczeństwa (Dział VI PZP, art. 393–421) to zamówienia dotyczące sprzętu wojskowego, newralgicznego, robót budowlanych i usług związanych z obronnością. Podlegają szczególnym regulacjom ze względu na bezpieczeństwo państwa.",
+    "extended": "Zamówienia obronne obejmują: sprzęt wojskowy (broń, amunicja, pojazdy bojowe), sprzęt newralgiczny (systemy łączności, szyfrowanie), roboty i usługi do celów wojskowych. Dopuszczalne tryby: przetarg ograniczony, negocjacje z ogłoszeniem, dialog konkurencyjny, negocjacje bez ogłoszenia, zamówienie z wolnej ręki. Nie stosuje się trybu podstawowego ani przetargu nieograniczonego. Zamawiający może wymagać: poświadczenia bezpieczeństwa osobowego, zdolności ochrony informacji niejawnych, szczególnych warunków realizacji. Część zamówień obronnych jest wyłączona z PZP na podstawie art. 346 TFUE (istotne interesy bezpieczeństwa)."
+  },
+  {
+    "slug": "specyfikacja-techniczna",
+    "term": "Specyfikacja techniczna",
+    "shortDef": "Część OPZ opisująca wymagania techniczne dotyczące przedmiotu zamówienia – parametry, normy, standardy.",
+    "definition": "Specyfikacja techniczna to element opisu przedmiotu zamówienia (OPZ) określający wymagania techniczne, jakie musi spełnić dostawa, usługa lub robota budowlana. Zgodnie z art. 101 PZP, zamawiający opisuje przedmiot zamówienia przez odniesienie do norm, ocen technicznych, specyfikacji technicznych lub systemów referencji technicznych.",
+    "extended": "Zamawiający nie może opisywać przedmiotu zamówienia w sposób utrudniający uczciwą konkurencję – np. wskazując konkretną markę bez dopuszczenia równoważności. Art. 99 ust. 4 PZP zakazuje wskazywania znaków towarowych, patentów, źródła lub producenta – chyba że z dopiskiem „lub równoważny\" i podaniem kryteriów równoważności. Specyfikacja techniczna w robotach budowlanych (STWiORB) jest szczegółowym dokumentem opisującym wymagania dotyczące materiałów, sprzętu, wykonania i odbioru robót."
+  },
+  {
+    "slug": "centralny-rejestr-umow",
+    "term": "Centralny Rejestr Umów",
+    "shortDef": "Publiczny rejestr umów zawieranych przez jednostki sektora finansów publicznych, prowadzony przez Ministra Finansów.",
+    "definition": "Centralny Rejestr Umów (art. 34a ustawy o finansach publicznych) to jawny rejestr umów zawieranych przez jednostki sektora finansów publicznych o wartości powyżej 500 zł. Prowadzony przez Ministra Finansów, dostępny publicznie w BIP. Celem jest zwiększenie transparentności wydatków publicznych.",
+    "extended": "Rejestr obejmuje: numer umowy, datę zawarcia, okres obowiązywania, wartość, przedmiot, strony umowy. Obowiązek wpisu dotyczy jednostek sektora finansów publicznych – samorządów, urzędów, instytucji kultury, uczelni itp. Termin wpisu: 14 dni od zawarcia umowy. Dla wykonawców rejestr jest cennym narzędziem do: analizy konkurencji (kto wygrywał i za ile), szacowania wartości przyszłych zamówień, identyfikowania potencjalnych zamawiających. Uwaga: wdrożenie rejestru było wielokrotnie przesuwane – aktualny status warto weryfikować."
+  },
+  {
+    "slug": "zamowienia-uslugi-spoleczne",
+    "term": "Zamówienia na usługi społeczne",
+    "shortDef": "Uproszczona procedura dla zamówień na usługi zdrowotne, edukacyjne, socjalne, hotelarskie i inne szczególne.",
+    "definition": "Zamówienia na usługi społeczne i inne szczególne usługi (art. 359–361 PZP) to zamówienia na usługi wymienione w załączniku XIV do Dyrektywy 2014/24/UE: usługi zdrowotne, socjalne, edukacyjne, hotelarskie, prawne, pocztowe, detektywistyczne, ochroniarskie i inne. Podlegają uproszczonej procedurze z wyższym progiem unijnym (750 000 EUR).",
+    "extended": "Zamawiający stosuje uproszczony tryb: publikuje ogłoszenie, prowadzi postępowanie z zapewnieniem konkurencji, ale ma większą swobodę w kształtowaniu procedury. Poniżej 750 000 EUR stosuje się przepisy krajowe z minimalnymi wymaganiami. Kluczowe kody CPV: 85 (zdrowie), 80 (edukacja), 55 (hotelarstwo), 79 (usługi prawne/doradcze), 75 (administracja). Zamawiający może zastrzec postępowanie dla zakładów pracy chronionej lub wykonawców zatrudniających osoby niepełnosprawne (art. 94 PZP)."
+  },
+  {
+    "slug": "zamowienia-mieszane",
+    "term": "Zamówienia mieszane",
+    "shortDef": "Zamówienia obejmujące różne rodzaje świadczeń (dostawy + usługi + roboty) lub podlegające różnym reżimom prawnym.",
+    "definition": "Zamówienia mieszane (art. 25–27 PZP) to zamówienia obejmujące co najmniej dwa różne rodzaje świadczeń (np. dostawy i usługi, roboty i dostawy) lub świadczenia podlegające różnym reżimom prawnym (np. klasyczne i sektorowe, lub objęte i nieobjęte PZP).",
+    "extended": "Zasady ogólne: (1) zamówienie mieszane udziela się z zastosowaniem przepisów właściwych dla „głównego\" przedmiotu – określonego przez główny cel lub największą wartość, (2) jeśli części nie są obiektywnie rozdzielne – stosuje się przepisy surowsze, (3) zamawiający może podzielić zamówienie na części i zastosować odrębne przepisy do każdej. Przykład: zamówienie na dostawę komputerów (CPV 30) + wdrożenie oprogramowania (CPV 72) – jeśli wartość usług > dostaw, stosuje się przepisy dla usług. Częsty problem: błędne zakwalifikowanie zamówienia mieszanego prowadzi do odwołań do KIO."
+  },
+  {
+    "slug": "platnosc-czesciowa",
+    "term": "Płatność częściowa",
+    "shortDef": "Wypłata wynagrodzenia wykonawcy w ratach, powiązana z odbiorem kolejnych etapów realizacji zamówienia.",
+    "definition": "Płatność częściowa to wypłata części wynagrodzenia wykonawcy po zrealizowaniu i odebraniu określonego etapu zamówienia. PZP wymaga (art. 443), aby w umowach na roboty budowlane trwające ponad 12 miesięcy zamawiający przewidział płatności częściowe lub zaliczkowe.",
+    "extended": "Płatności częściowe poprawiają płynność finansową wykonawcy i zmniejszają ryzyko realizacji. Zamawiający określa w SWZ: liczbę i harmonogram płatności, warunki odbioru częściowego, dokumenty wymagane do płatności (protokół odbioru, faktura). W robotach budowlanych płatności często powiązane są z harmonogramem rzeczowo-finansowym. Termin płatności: max 30 dni od otrzymania faktury (art. 8 ust. 2 ustawy o przeciwdziałaniu nadmiernym opóźnieniom). Ostatnia płatność (końcowa) zwykle stanowi 10–20% wartości i jest powiązana z odbiorem końcowym."
+  },
+  {
+    "slug": "zapytanie-ofertowe",
+    "term": "Zapytanie ofertowe",
+    "shortDef": "Uproszczony tryb udzielania zamówień publicznych poniżej progu stosowania ustawy PZP (130 000 zł netto).",
+    "definition": "Zapytanie ofertowe to procedura zakupowa stosowana przez zamawiających publicznych do zamówień o wartości poniżej 130 000 zł netto, czyli poniżej progu, od którego obowiązuje ustawa Prawo zamówień publicznych. Zamawiający sam ustala zasady postępowania na podstawie wewnętrznego regulaminu.",
+    "extended": "Zapytanie ofertowe jest najprostszą formą zamówienia publicznego. Zamawiający publikuje opis przedmiotu zamówienia (na stronie BIP, w BZP jako „zamówienie poza ustawą PZP\" lub w Bazie Konkurencyjności), określa kryteria oceny i termin składania ofert. Nie obowiązują wymogi dotyczące JEDZ, wadium ani minimalne terminy z PZP. Dla wykonawców to idealny punkt startowy — niski formalizm, krótkie terminy decyzji (2-4 tygodnie) i mniejsze ryzyko finansowe. Zrealizowane zapytania ofertowe budują referencje przydatne w większych przetargach PZP."
+  },
+  {
+    "slug": "zlecenia-publiczne",
+    "term": "Zlecenia publiczne",
+    "shortDef": "Potoczne określenie zamówień i zleceń udzielanych przez instytucje publiczne, obejmujące zarówno przetargi PZP, jak i zamówienia podprogowe.",
+    "definition": "Zlecenia publiczne to nieformalne określenie zamówień udzielanych przez podmioty sektora publicznego — urzędy, szkoły, szpitale, spółki komunalne i inne instytucje finansowane ze środków publicznych. Obejmują zarówno zamówienia podlegające ustawie PZP (powyżej 130 000 zł netto), jak i mniejsze zakupy realizowane w trybie zapytań ofertowych.",
+    "extended": "Termin „zlecenia publiczne\" nie jest pojęciem prawnym — ustawa PZP posługuje się terminem „zamówienia publiczne\". W praktyce biznesowej „zlecenia publiczne\" oznaczają ogół możliwości pozyskania kontraktów od sektora publicznego. Obejmują: (1) przetargi PZP — formalne postępowania powyżej progu 130 000 zł, (2) zapytania ofertowe — uproszczone procedury poniżej progu PZP, (3) zamówienia z wolnej ręki — dla specjalistycznych usług bez konkurencji, (4) koncesje — model PPP z wynagrodzeniem w formie prawa do eksploatacji. Firmy szukające zleceń publicznych powinny monitorować BZP, TED oraz strony zamawiających."
+  }
+]

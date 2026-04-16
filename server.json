@@ -1,0 +1,37 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.atlasprzetargow/mcp",
+  "description": "Search Polish public tenders (BZP + TED) — 800k+ tenders, profiles, statistics, glossary.",
+  "repository": {
+    "url": "https://github.com/atlasprzetargow/mcp-server",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@atlasprzetargow/mcp",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "ATLAS_API_KEY",
+          "description": "Optional API key for /api/llm/* endpoints (unlocks AI-generated tender summaries). Without the key, all public Atlas endpoints still work in full.",
+          "isRequired": false,
+          "isSecret": true,
+          "format": "string"
+        },
+        {
+          "name": "ATLAS_API_BASE",
+          "description": "Override for the Atlas Przetargów API root. Defaults to https://atlasprzetargow.pl",
+          "isRequired": false,
+          "isSecret": false,
+          "format": "string",
+          "default": "https://atlasprzetargow.pl"
+        }
+      ]
+    }
+  ]
+}

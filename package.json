@@ -1,6 +1,7 @@
 {
   "name": "@atlasprzetargow/mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "mcpName": "io.github.atlasprzetargow/mcp",
   "description": "MCP server for Atlas Przetargów — search and analyze Polish public tenders (BZP + TED) from any AI client (Claude Desktop, Cursor, Continue).",
   "type": "module",
   "bin": {

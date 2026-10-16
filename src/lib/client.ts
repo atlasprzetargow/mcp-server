@@ -50,8 +50,11 @@ async function doFetch<T>(url: URL, endpoint: string, config: AtlasConfig): Prom
     Accept: "application/json",
     "User-Agent": config.userAgent,
   };
-  if (config.apiKey && endpoint.startsWith("/api/llm/")) {
-    headers["X-LLM-API-Key"] = config.apiKey;
+  if (config.apiKey) {
+    headers["X-Api-Key"] = config.apiKey;
+    if (endpoint.startsWith("/api/llm/")) {
+      headers["X-LLM-API-Key"] = config.apiKey;
+    }
   }
 
   try {

@@ -124,7 +124,7 @@ All optional. Defaults are safe.
 | Variable | Default | Description |
 |---|---|---|
 | `ATLAS_API_BASE` | `https://atlasprzetargow.pl` | API root. Useful for staging or self-hosted Atlas |
-| `ATLAS_API_KEY` | _(none)_ | Optional key for `/api/llm/*` endpoints (AI summaries). Without it, the server still works with full public data |
+| `ATLAS_API_KEY` | _(none)_ | Optional Atlas API key (`atlas_...`), generated at https://atlasprzetargow.pl/konto (tab "API"). Raises the daily request quota (anonymous: 1 500/day per IP, key: 5 000/day) and is sent as `X-Api-Key`. Docs: https://atlasprzetargow.pl/dokumentacja-api |
 | `ATLAS_TIMEOUT_MS` | `20000` | Request timeout |
 | `ATLAS_MAX_RETRIES` | `2` | Retry count for 429 / 5xx / timeouts |
 
@@ -137,7 +137,7 @@ Pass them via your MCP client config:
       "command": "npx",
       "args": ["-y", "@atlasprzetargow/mcp"],
       "env": {
-        "ATLAS_API_KEY": "your-optional-key-here"
+        "ATLAS_API_KEY": "atlas_your_key_here"
       }
     }
   }

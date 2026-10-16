@@ -29,7 +29,9 @@ function extractGlossary() {
 
   const src = readFileSync(SLOWNIK_SRC, "utf8");
   const entries = [];
-  const regex = /\{\s*slug:\s*'([^']+)',\s*term:\s*'([^']+)',\s*shortDef:\s*([`'"])([\s\S]*?)\3,\s*definition:\s*([`'"])([\s\S]*?)\5,\s*extended:\s*([`'"])([\s\S]*?)\7,/g;
+  // Proste pola między term a shortDef (np. dateModified) są pomijane; bez tego
+  // hasło z takim polem znikało z glossary.json i llms-full.txt (wadium, 23.09.2026).
+  const regex = /\{\s*slug:\s*'([^']+)',\s*term:\s*'([^']+)',(?:\s*(?!shortDef\b)[A-Za-z]+:\s*'[^']*',)*\s*shortDef:\s*([`'"])([\s\S]*?)\3,\s*definition:\s*([`'"])([\s\S]*?)\5,\s*extended:\s*([`'"])([\s\S]*?)\7,/g;
 
   let m;
   while ((m = regex.exec(src)) !== null) {
